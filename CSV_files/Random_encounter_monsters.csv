@@ -1,440 +1,440 @@
-Monster,CR,Type,Subtype,Size,Align,Legendary?,Lair?,XP,Artic,Coastal,Desert,Forest,Grassland,Hill,Mountain,Swamp,Underdark,Underwater,Urban
-Aarakocra,0.25,Humanoid,Aarakocra,Medium,NG,N,N,50,0,0,0,1,0,0,0,0,0,0,0
-Aboleth,10,Aberration,,Large,LE,Y,Y,5900,0,0,0,1,0,1,0,0,0,0,0
-"Angel, deva",10,Celestial,,Medium,LG,N,N,5900,0,0,0,1,0,0,0,0,0,0,0
-"Angel, planetar",16,Celestial,,Large,LG,N,N,15000,0,0,0,0,0,0,0,0,0,0,0
-"Angel, solar",21,Celestial,,Large,LG,Y,N,33000,0,0,1,1,1,0,0,0,0,0,1
-"Animated object, animated armor",1,Construct,,Medium,,N,N,200,0,1,0,0,0,0,0,0,0,0,0
+monster,cr,type,subtype,size,align,legendary,lair,xp,artic,coastal,desert,forest,grassland,hill,mountain,swamp,underdark,underwater,urban
+Awakened shrub,0,Plant,,Small,,N,N,10,0,0,0,1,0,0,0,0,0,0,0
+Baboon,0,Beast,,Small,,N,N,10,0,0,0,1,0,1,0,0,0,0,0
+Badger,0,Beast,,Tiny,,N,N,10,0,0,0,1,0,0,0,0,0,0,0
+Bat,0,Beast,,Tiny,,N,N,10,0,0,0,0,0,0,0,0,0,0,0
+Cat,0,Beast,,Tiny,,N,N,12,0,0,1,1,1,0,0,0,0,0,1
+Crab,0,Beast,,Tiny,,N,N,10,0,1,0,0,0,0,0,0,0,0,0
+Crawling claw,0,Undead,,Tiny,NE,N,N,10,0,0,0,0,0,0,0,0,0,0,0
+Deer,0,Beast,,Medium,,N,N,10,0,0,0,1,1,0,0,0,0,0,0
+"Devil, lemure",0,Fiend,Devil,Medium,LE,N,N,10,0,0,0,0,0,0,0,0,0,0,0
+Eagle,0,Beast,,Small,,N,N,10,0,1,0,0,1,1,1,0,0,0,0
+"Fire beetle, giant",0,Beast,,Small,,N,N,10,0,0,0,0,0,0,0,0,1,0,0
+Frog,0,Beast,,Tiny,,N,N,0,0,0,0,0,0,0,0,0,0,0,0
+"Fungi, shrieker",0,Plant,,Medium,,N,N,10,0,0,0,0,0,0,0,0,1,0,0
+Goat,0,Beast,,Medium,,N,N,10,0,0,0,0,1,1,1,0,0,0,1
+Hawk,0,Beast,,Tiny,,N,N,10,0,0,0,0,0,0,0,0,0,0,0
+Homunculus,0,Construct,,Tiny,N,N,N,10,0,0,0,0,0,0,0,0,0,0,0
+Hyena,0,Beast,,Medium,,N,N,10,0,0,1,1,1,1,0,0,0,0,0
+Jackal,0,Beast,,Small,,N,N,10,0,0,1,0,1,0,0,0,0,0,0
+Lizard,0,Beast,,Tiny,,N,N,10,0,0,0,0,0,0,0,0,0,0,0
+"Myconid, sprout",0,Plant,,Small,LN,N,N,10,0,0,0,0,0,0,0,0,1,0,0
+NPC commoner,0,Humanoid,any,Medium,any,N,N,10,1,1,1,1,1,1,0,0,0,0,1
+Octopus,0,Beast,,Small,,N,N,10,0,0,0,0,0,0,0,0,0,0,0
+Owl,0,Beast,,Tiny,,N,N,10,1,0,0,1,0,0,0,0,0,0,0
+Quipper,0,Beast,,Tiny,,N,N,10,0,0,0,0,0,0,0,0,0,1,0
+Rat,0,Beast,,Tiny,,N,N,10,0,0,0,0,0,0,0,1,0,0,1
+Raven,0,Beast,,Tiny,,N,N,10,0,0,0,0,0,1,0,1,0,0,1
+Scorpion,0,Beast,,Tiny,,N,N,10,0,0,1,0,0,0,0,0,0,0,0
+Sea horse,0,Beast,,Tiny,,N,N,0,0,0,0,0,0,0,0,0,0,0,0
+Spider,0,Beast,,Tiny,,N,N,10,0,0,0,0,0,0,0,0,0,0,0
+Vulture,0,Beast,,Medium,,N,N,10,0,0,1,0,1,1,0,0,0,0,0
+Weasel,0,Beast,,Tiny,,N,N,10,0,0,0,0,0,0,0,0,0,0,0
+"Blight, twig",0.125,Plant,,Small,NE,N,N,25,0,0,0,1,0,0,0,0,0,0,0
+Blood hawk,0.125,Beast,,Small,,N,N,25,1,1,0,1,1,1,1,0,0,0,0
+Camel,0.125,Beast,,Large,,N,N,25,0,0,1,0,0,0,0,0,0,0,0
+"Crab, giant",0.125,Beast,,Medium,,N,N,25,0,1,0,0,0,0,0,0,0,0,0
+"Demon, manes",0.125,Fiend,Demon,Small,CE,N,N,25,0,0,0,0,0,0,0,0,0,0,0
+Flumph,0.125,Aberration,,Small,LG,N,N,25,0,0,0,0,0,0,0,0,1,0,0
+Kobold,0.125,Humanoid,Kobold,Small,LE,N,N,25,1,1,1,1,0,1,1,1,1,0,1
+Mastiff,0.125,Beast,,Medium,,N,N,25,0,0,0,1,0,1,0,0,0,0,1
+Merfolk,0.125,Humanoid,Merfolk,Medium,N,N,N,25,0,1,0,0,0,0,0,0,0,1,0
+"Modron, monodrone",0.125,Construct,,Medium,LN,N,N,25,0,0,0,0,0,0,0,0,0,0,0
+Mule,0.125,Beast,,Medium,,N,N,25,0,0,1,0,0,1,0,0,0,0,1
+NPC bandit,0.125,Humanoid,any,Medium,non-L,N,N,25,1,1,1,1,0,1,0,0,0,0,1
+NPC cultist,0.125,Humanoid,any,Medium,non-G,N,N,25,0,0,0,0,0,0,0,0,0,0,1
+NPC guard,0.125,Humanoid,any,Medium,any,N,N,25,0,1,1,1,1,1,1,0,0,0,1
+NPC noble,0.125,Humanoid,any,Medium,any,N,N,25,0,0,0,0,0,0,0,0,0,0,1
+NPC tribal warrior,0.125,Humanoid,any,Medium,any,N,N,25,1,1,1,1,1,1,1,1,1,0,0
+Pony,0.125,Beast,,Medium,,N,N,25,0,0,0,0,0,0,0,0,0,0,1
+"Rat, giant",0.125,Beast,,Small,,N,N,25,0,0,0,1,0,0,0,1,1,0,1
+"Slaad, tadpole",0.125,Aberration,,Tiny,CN,N,N,25,0,0,0,0,0,0,0,0,0,0,0
+"Snake, flying",0.125,Beast,,Tiny,,N,N,25,0,0,1,1,1,0,0,0,0,0,1
+"Snake, poisonous",0.125,Beast,,Tiny,,N,N,25,0,1,0,1,1,1,0,1,0,0,0
+Stirge,0.125,Beast,,Tiny,,N,N,25,0,1,1,1,1,1,1,1,1,0,1
+"Weasel, giant",0.125,Beast,,Medium,,N,N,25,0,0,0,1,1,1,0,0,0,0,0
+Aarakocra,0.25,Humanoid,Aarakocra,Medium,NG,N,N,50,0,0,0,0,0,0,1,0,0,0,0
 "Animated object, flying sword",0.25,Construct,,Small,,N,N,50,0,0,0,0,0,0,0,0,0,0,0
-"Animated object, rug of smothering",2,Construct,,Large,,N,N,450,0,0,0,1,1,0,0,0,0,0,0
-Ankheg,2,Monstrosity,,Large,,N,N,450,0,0,0,0,0,0,0,0,0,0,0
-Ape,0.5,Beast,,Medium,,N,N,100,0,1,0,0,1,1,1,0,0,0,0
-"Ape, giant",7,Beast,,Huge,,N,N,2900,0,0,0,0,0,0,0,0,1,0,0
-Awakened shrub,0,Plant,,Small,,N,N,10,0,0,0,0,0,0,0,0,0,0,0
-Awakened tree,2,Plant,,Huge,,N,N,450,0,0,0,0,0,0,0,0,1,0,0
-Axe beak,0.25,Beast,,Large,,N,N,50,0,0,0,0,1,1,1,0,0,0,1
-Azer,2,Elemental,,Medium,LN,N,N,450,0,0,0,0,0,0,0,0,0,0,0
-Baboon,0,Beast,,Small,,N,N,10,0,0,0,0,0,0,0,0,0,0,0
-Badger,0,Beast,,Tiny,,N,N,10,0,0,1,1,1,1,0,0,0,0,0
-"Badger, giant",0.25,Beast,,Medium,,N,N,50,0,0,1,0,1,0,0,0,0,0,0
-Banshee,4,Undead,,Medium,CE,N,N,1100,0,0,0,0,0,0,0,0,0,0,0
-Basilisk,3,Monstrosity,,Medium,,N,N,700,0,0,0,0,0,0,0,0,1,0,0
-Bat,0,Beast,,Tiny,,N,N,10,1,1,1,1,1,1,0,0,0,0,1
-"Bat, giant",0.25,Beast,,Large,,N,N,50,0,0,0,0,0,0,0,0,0,0,0
-"Bear, black",0.5,Beast,,Medium,,N,N,100,1,0,0,1,0,0,0,0,0,0,0
-"Bear, brown",1,Beast,,Large,,N,N,200,0,0,0,0,0,0,0,0,0,1,0
-"Bear, polar/cave",2,Beast,,Large,,N,N,450,0,0,0,0,0,0,0,1,0,0,1
-Behir,11,Monstrosity,,Huge,NE,N,N,7200,0,0,0,0,0,1,0,1,0,0,1
-Beholder,13,Aberration,,Large,LE,Y,Y,10000,0,0,1,0,0,0,0,0,0,0,0
-"Beholder, death tyrant",14,Undead,,Large,LE,Y,Y,11500,0,0,0,0,0,0,0,0,0,0,0
-"Beholder, spectator",3,Aberration,,Medium,LN,N,N,700,0,0,0,0,0,0,0,0,0,0,0
-"Blight, needle",0.25,Plant,,Medium,NE,N,N,50,0,0,1,0,1,1,0,0,0,0,0
-"Blight, twig",0.125,Plant,,Small,NE,N,N,25,0,0,0,0,0,0,0,0,0,0,0
+Axe beak,0.25,Beast,,Large,,N,N,50,0,0,0,0,1,1,0,0,0,0,0
+"Badger, giant",0.25,Beast,,Medium,,N,N,50,0,0,0,1,0,0,0,0,0,0,0
+"Bat, giant",0.25,Beast,,Large,,N,N,50,0,0,0,1,0,0,0,0,1,0,0
+"Blight, needle",0.25,Plant,,Medium,NE,N,N,50,0,0,0,1,0,0,0,0,0,0,0
+Blink dog,0.25,Fey,,Medium,LG,N,N,50,0,0,0,1,0,0,0,0,0,0,0
+Boar,0.25,Beast,,Medium,,N,N,50,0,0,0,1,1,1,0,0,0,0,0
+Bullywug,0.25,Humanoid,Bullywug,Medium,NE,N,N,50,0,0,0,0,0,0,0,1,0,0,0
+"Centipede, giant",0.25,Beast,,Small,,N,N,50,0,0,0,0,0,0,0,0,1,0,1
+"Demon, dretch",0.25,Fiend,Demon,Small,CE,N,N,50,0,0,0,0,0,0,0,0,0,0,0
+"Dinosaur, pteranodon",0.25,Beast,,Medium,,N,N,50,0,0,0,0,1,0,1,0,0,0,0
+"Elf, drow",0.25,Humanoid,Elf,Medium,NE,N,N,50,0,0,0,0,0,0,0,0,1,0,0
+Elk,0.25,Beast,,Large,,N,N,50,0,0,0,1,1,1,0,0,0,0,0
+"Frog, giant",0.25,Beast,,Medium,,N,N,50,0,0,0,1,0,0,0,1,0,0,0
+"Fungi, violet",0.25,Plant,,Medium,,N,N,50,0,0,0,0,0,0,0,0,1,0,0
+Goblin,0.25,Humanoid,Goblinoid,Small,NE,N,N,50,0,0,0,1,1,1,0,0,1,0,0
+Grimlock,0.25,Humanoid,Grimlick,Medium,NE,N,N,50,0,0,0,0,0,0,0,0,1,0,0
+"Horse, draft",0.25,Beast,,Large,,N,N,50,0,0,0,0,0,0,0,0,0,0,1
+"Horse, riding",0.25,Beast,,Large,,N,N,50,0,0,0,0,1,0,0,0,0,0,1
+Kenku,0.25,Humanoid,Kenku,Medium,CN,N,N,50,1,0,0,1,0,0,0,0,0,0,1
+"Kobold, winged (urd)",0.25,Humanoid,Kobold,Small,LE,N,N,50,0,1,1,1,0,1,1,1,1,0,1
+Kuo-toa,0.25,Humanoid,Kuo-toa,Medium,NE,N,N,50,0,0,0,0,0,0,0,0,1,0,0
+"Lizard, giant",0.25,Beast,,Large,,N,N,50,0,1,0,1,0,0,0,1,1,0,0
+"Mephit, mud",0.25,Elemental,,Small,NE,N,N,50,0,0,0,0,0,0,0,1,0,0,0
+"Mephit, smoke",0.25,Elemental,,Small,NE,N,N,50,0,0,0,0,0,0,0,0,0,0,1
+"Mephit, steam",0.25,Elemental,,Small,NE,N,N,50,0,0,0,0,0,0,0,0,0,1,0
+"Modron, duodrone",0.25,Construct,,Medium,LN,N,N,50,0,0,0,0,0,0,0,0,0,0,0
+NPC acolyte,0.25,Humanoid,any,Medium,any,N,N,50,0,0,0,0,0,0,0,0,0,0,1
+"Owl, giant",0.25,Beast,,Large,N,N,N,50,1,0,0,1,0,1,0,0,0,0,0
+Panther,0.25,Beast,,Medium,,N,N,50,0,0,0,1,1,1,0,0,0,0,0
+Pixie,0.25,Fey,,Tiny,NG,N,N,50,0,0,0,1,0,0,0,0,0,0,0
+Pseudodragon,0.25,Dragon,,Tiny,NG,N,N,50,0,1,1,1,0,1,1,0,0,0,1
+Skeleton,0.25,Undead,,Medium,LE,N,N,50,0,0,0,0,0,0,0,0,0,0,1
+"Snake, constrictor",0.25,Beast,,Large,,N,N,50,0,0,0,1,0,0,0,1,0,1,0
+"Snake, giant poisonous",0.25,Beast,,Medium,,N,N,50,0,0,1,1,1,0,0,1,1,0,1
+"Spider, giant wolf",0.25,Beast,,Medium,,N,N,50,0,1,1,1,1,1,0,0,0,0,0
+Sprite,0.25,Fey,,Tiny,NG,N,N,50,0,0,0,1,0,0,0,0,0,0,0
+Swarm of bats,0.25,Beast,,Medium (Tiny),,N,N,50,0,0,0,0,0,1,1,0,1,0,1
+Swarm of rats,0.25,Beast,,Medium (Tiny),,N,N,50,0,0,0,0,0,0,0,1,0,0,0
+Swarm of ravens,0.25,Beast,,Medium (Tiny),,N,N,50,0,0,0,1,0,1,0,1,0,0,1
+Troglodyte,0.25,Humanoid,Troglodyte,Medium,CE,N,N,50,0,0,0,0,0,0,0,0,1,0,0
+Wolf,0.25,Beast,,Medium,,N,N,50,0,0,0,1,1,1,0,0,0,0,0
+Zombie,0.25,Undead,,Medium,NE,N,N,50,0,0,0,0,0,0,0,0,0,0,1
+Ape,0.5,Beast,,Medium,,N,N,100,0,0,0,1,0,0,0,0,0,0,0
+"Bear, black",0.5,Beast,,Medium,,N,N,100,0,0,0,1,0,0,0,0,0,0,0
 "Blight, vine",0.5,Plant,,Medium,NE,N,N,100,0,0,0,1,0,0,0,0,0,0,0
-Blink dog,0.25,Fey,,Medium,LG,N,N,50,1,1,0,1,1,1,1,0,0,0,0
-Blood hawk,0.125,Beast,,Small,,N,N,25,0,0,1,0,0,0,0,0,0,0,0
-Boar,0.25,Beast,,Medium,,N,N,50,0,1,0,0,0,0,0,0,0,0,0
-"Boar, giant",2,Beast,,Large,,N,N,450,0,0,0,0,0,0,0,0,0,0,0
-Bugbear,1,Humanoid,Goblinoid,Medium,CE,N,N,200,0,0,0,0,0,0,0,0,1,0,0
-Bugbear chief,3,Humanoid,Goblinoid,Medium,CE,N,N,700,1,1,1,1,0,1,1,1,1,0,1
-Bulette,5,Monstrosity,,Large,,N,N,1800,0,0,0,1,0,1,0,0,0,0,1
-Bullywug,0.25,Humanoid,Bullywug,Medium,NE,N,N,50,0,1,0,0,0,0,0,0,0,1,0
-Cambion,5,Fiend,,Medium,E (any),N,N,1800,0,0,0,0,0,0,0,0,0,0,0
-Camel,0.125,Beast,,Large,,N,N,25,0,0,1,0,0,1,0,0,0,0,1
-Carrion crawler,2,Monstrosity,,Large,,N,N,450,1,1,1,1,0,1,0,0,0,0,1
-Cat,0,Beast,,Tiny,,N,N,12,0,0,0,0,0,0,0,0,0,0,1
-Centaur,2,Monstrosity,,Large,NG,N,N,450,0,1,1,1,1,1,1,0,0,0,1
-"Centipede, giant",0.25,Beast,,Small,,N,N,50,0,0,0,0,0,0,0,0,0,0,1
-Chimera,6,Monstrosity,,Large,CE,N,N,2300,1,1,1,1,1,1,1,1,1,0,0
-Chuul,4,Aberration,,Large,CE,N,N,1100,0,0,0,0,0,0,0,0,0,0,1
-Cloaker,8,Aberration,,Large,CN,N,N,3900,0,0,0,1,0,0,0,1,1,0,1
-Cockatrice,0.5,Monstrosity,,Small,,N,N,100,0,0,0,0,0,0,0,0,0,0,0
-Couatl,4,Celestial,,Medium,LG,N,N,1100,0,0,1,1,1,0,0,0,0,0,1
-Crab,0,Beast,,Tiny,,N,N,10,0,1,0,1,1,1,0,1,0,0,0
-"Crab, giant",0.125,Beast,,Medium,,N,N,25,0,1,1,1,1,1,1,1,1,0,1
-Crawling claw,0,Undead,,Tiny,NE,N,N,10,0,0,0,1,1,1,0,0,0,0,0
-Crocodile,0.5,Beast,,Large,,N,N,100,0,0,0,0,0,0,1,0,0,0,0
-"Crocodile, giant",5,Beast,,Huge,,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
-Cyclops,6,Giant,,Huge,CN,N,N,2300,0,0,0,0,1,1,0,0,0,0,0
-Darkmantle,0.5,Monstrosity,,Small,,N,N,100,0,0,0,1,0,0,0,0,0,0,0
-Death dog,1,Monstrosity,,Medium,NE,N,N,200,0,0,0,1,0,0,0,0,1,0,0
-Death Knight,17,Undead,,Medium,CE,N,N,18000,0,0,0,1,0,0,0,0,0,0,0
-Deer,0,Beast,,Medium,,N,N,10,0,0,0,1,0,0,0,0,0,0,0
-Demilich,18,Undead,,Tiny,NE,Y,Y,20000,0,0,0,1,1,1,0,0,0,0,0
-"Demon, balor",19,Fiend,Demon,Huge,CE,N,N,22000,0,0,0,0,0,0,0,1,0,0,0
-"Demon, barlgura",5,Fiend,Demon,Large,CE,N,N,1800,0,0,0,0,0,0,0,0,1,0,1
-"Demon, chasme",6,Fiend,Demon,Large,CE,N,N,2300,0,0,0,0,0,0,0,0,0,0,0
-"Demon, dretch",0.25,Fiend,Demon,Small,CE,N,N,50,0,0,0,0,1,0,1,0,0,0,0
-"Demon, glabrezu",9,Fiend,Demon,Large,CE,N,N,5000,0,0,0,0,0,0,0,0,1,0,0
-"Demon, goristro",17,Fiend,Demon,Huge,CE,N,N,18000,0,0,0,1,1,1,0,0,0,0,0
-"Demon, hezrou",8,Fiend,Demon,Large,CE,N,N,3900,0,0,0,1,0,0,0,1,0,0,0
-"Demon, manes",0.125,Fiend,Demon,Small,CE,N,N,25,0,0,0,0,0,0,0,0,1,0,0
-"Demon, marilith",16,Fiend,Demon,Large,CE,N,N,15000,0,0,0,1,1,1,0,0,1,0,0
-"Demon, nalfeshnee",13,Fiend,Demon,Large,CE,N,N,10000,0,0,0,0,0,0,0,0,1,0,0
-"Demon, quasit",1,Fiend,Shapechanger,Tiny,CE,N,N,200,0,0,0,0,0,0,0,0,0,0,1
-"Demon, shadow",4,Fiend,Demon,Medium,CE,N,N,1100,0,0,0,0,1,0,0,0,0,0,1
-"Demon, vrock",6,Fiend,Demon,Large,CE,N,N,2300,1,0,0,1,0,0,0,0,0,0,1
-"Demon, yochlol",10,Fiend,Shapechanger,Medium,CE,N,N,5900,0,1,1,1,0,1,1,1,1,0,1
-"Devil, barbed",5,Fiend,Devil,Medium,LE,N,N,1800,0,0,0,0,0,0,0,0,1,0,0
-"Devil, bearded",3,Fiend,Devil,Medium,LE,N,N,700,0,1,0,1,0,0,0,1,1,0,0
-"Devil, bone",9,Fiend,Devil,Large,LE,N,N,5000,0,0,0,0,0,0,0,1,0,0,0
-"Devil, chain",8,Fiend,Devil,Medium,LE,N,N,3900,0,0,0,0,0,0,0,0,0,0,1
-"Devil, erinyes",12,Fiend,Devil,Medium,LE,N,N,8400,0,0,0,0,0,0,0,0,0,1,0
-"Devil, horned",11,Fiend,Devil,Large,LE,N,N,7200,0,0,0,0,0,0,0,0,0,0,0
-"Devil, ice",14,Fiend,Devil,Large,LE,N,N,11500,0,0,0,0,0,0,0,0,0,0,1
-"Devil, imp",1,Fiend,Shapechanger,Tiny,LE,N,N,200,1,0,0,1,0,1,0,0,0,0,0
-"Devil, lemure",0,Fiend,Devil,Medium,LE,N,N,10,0,0,0,1,1,1,0,0,0,0,0
-"Devil, pit fiend",20,Fiend,Devil,Large,LE,N,N,25000,0,0,0,1,0,0,0,0,0,0,0
-"Devil, spined",2,Fiend,Devil,Small,LE,N,N,450,0,1,1,1,0,1,1,0,0,0,1
-"Dinosaur, allosaurus",2,Beast,,Large,,N,N,450,0,0,0,0,0,0,0,0,0,0,1
-"Dinosaur, ankylosaurus",3,Beast,,Huge,,N,N,700,0,0,0,1,0,0,0,1,0,1,0
-"Dinosaur, plesiosaurus",2,Beast,,Large,,N,N,450,0,0,1,1,1,0,0,1,1,0,1
-"Dinosaur, pteranodon",0.25,Beast,,Medium,,N,N,50,0,1,1,1,1,1,0,0,0,0,0
-"Dinosaur, triceratops",5,Beast,,Huge,,N,N,1800,0,0,0,1,0,0,0,0,0,0,0
-"Dinosaur, tyrannosaurus rex",8,Beast,,Huge,,N,N,3900,0,0,0,0,0,1,1,0,1,0,1
-Dire wolf,1,Beast,,Large,,N,N,200,0,0,0,0,0,0,0,1,0,0,0
-Displacer beast,3,Monstrosity,,Large,LE,N,N,700,0,0,0,1,0,1,0,1,0,0,1
-Doppelganger,3,Monstrosity,Shapechanger,Medium,N,N,N,700,0,0,0,0,0,0,0,0,1,0,0
-Dracolich (template),,Undead,Dragon,,,Y,Y,,0,0,0,1,1,1,0,0,0,0,0
-"Dracolich, blue, adult",17,Undead,,Huge,LE,Y,Y,18000,0,0,0,0,0,0,0,0,0,0,1
-Dragon turtle,17,Dragon,,Gargantuan,N,N,N,18000,0,0,0,1,0,0,0,0,0,0,0
-"Dragon, black, adult",14,Dragon,,Huge,CE,Y,Y,11500,0,0,0,1,0,0,0,0,0,0,0
-"Dragon, black, ancient",21,Dragon,,Gargantuan,CE,Y,Y,27500,0,0,0,1,0,0,0,0,0,0,0
-"Dragon, black, wyrmling",2,Dragon,,Medium,CE,N,N,450,0,0,0,0,1,0,0,0,0,0,0
-"Dragon, black, young",7,Dragon,,Large,CE,N,N,2900,0,0,0,0,0,0,0,1,0,0,1
-"Dragon, blue, adult",16,Dragon,,Huge,LE,Y,Y,15000,0,0,0,0,0,0,0,0,1,0,0
-"Dragon, blue, ancient",23,Dragon,,Gargantuan,LE,Y,Y,32500,0,0,0,0,0,0,0,0,1,0,0
-"Dragon, blue, wyrmling",3,Dragon,,Medium,LE,N,N,700,0,0,1,1,1,1,0,0,0,0,0
-"Dragon, blue, young",9,Dragon,,Large,LE,N,N,5000,0,0,0,0,0,0,0,0,1,0,0
-"Dragon, brass, adult",13,Dragon,,Huge,CG,Y,Y,10000,0,0,0,0,1,1,1,0,0,0,0
-"Dragon, brass, ancient",20,Dragon,,Gargantuan,CG,Y,Y,24500,0,0,1,1,1,1,0,0,1,0,0
-"Dragon, brass, wyrmling",1,Dragon,,Medium,CG,N,N,200,0,0,0,0,0,0,0,0,0,0,1
-"Dragon, brass, young",6,Dragon,,Large,CG,N,N,2300,0,0,1,0,1,0,0,0,0,0,0
-"Dragon, bronze, adult",15,Dragon,,Huge,LG,Y,Y,13000,0,0,0,1,0,0,0,1,0,0,0
-"Dragon, bronze, ancient",22,Dragon,,Gargantuan,LG,Y,Y,30000,0,0,0,0,0,0,0,0,0,0,0
-"Dragon, bronze, wyrmling",2,Dragon,,Medium,LG,N,N,450,0,0,1,0,0,0,0,0,0,0,0
-"Dragon, bronze, young",8,Dragon,,Large,LG,N,N,3900,1,0,0,0,0,0,0,0,0,0,0
-"Dragon, copper, adult",14,Dragon,,Huge,CG,Y,Y,11500,0,0,0,0,0,0,0,0,1,0,0
-"Dragon, copper, ancient",21,Dragon,,Gargantuan,CG,Y,Y,27500,0,0,0,0,0,0,0,0,0,0,0
-"Dragon, copper, wyrmling",1,Dragon,,Medium,CG,N,N,200,0,0,0,0,0,0,0,0,1,0,0
-"Dragon, copper, young",7,Dragon,,Large,CG,N,N,2900,1,1,1,1,1,1,1,1,1,0,0
-"Dragon, gold, adult",17,Dragon,,Huge,LG,Y,Y,18000,0,0,0,0,0,0,0,0,0,0,1
-"Dragon, gold, ancient",24,Dragon,,Gargantuan,LG,Y,Y,36500,0,0,0,0,0,0,0,0,1,0,0
-"Dragon, gold, wyrmling",3,Dragon,,Medium,LG,N,N,700,1,0,0,1,1,1,1,1,0,0,0
-"Dragon, gold, young",10,Dragon,,Large,LG,N,N,5900,0,0,0,0,0,0,0,0,0,0,0
-"Dragon, green, adult",15,Dragon,,Huge,LE,Y,Y,13000,0,0,0,0,0,0,0,0,0,0,0
-"Dragon, green, ancient",22,Dragon,,Gargantuan,LE,Y,Y,30000,0,1,0,0,0,0,0,0,0,1,0
-"Dragon, green, wyrmling",2,Dragon,,Medium,LE,N,N,450,0,0,0,1,0,0,0,0,0,0,0
-"Dragon, green, young",8,Dragon,,Large,LE,N,N,3900,0,0,0,0,0,0,0,0,0,1,0
-"Dragon, red, adult",17,Dragon,,Huge,CE,Y,Y,18000,0,0,0,0,0,0,0,0,1,0,1
-"Dragon, red, ancient",24,Dragon,,Gargantuan,CE,Y,Y,36500,0,0,0,0,0,0,0,0,0,1,0
-"Dragon, red, wyrmling",4,Dragon,,Medium,CE,N,N,1100,0,0,0,0,0,0,0,0,0,0,0
-"Dragon, red, young",10,Dragon,,Large,CE,N,N,5900,0,0,1,1,1,1,0,1,1,0,1
-"Dragon, shadow (template)",,Dragon,,,,Y,Y,,0,0,0,1,1,0,0,0,0,0,1
-"Dragon, shadow, red, young",13,Dragon,,Large,,N,N,10000,0,0,0,1,1,1,0,0,0,0,0
-"Dragon, silver, adult",16,Dragon,,Huge,LG,Y,Y,15000,0,0,0,0,0,0,0,0,0,0,0
-"Dragon, silver, ancient",23,Dragon,,Gargantuan,LG,Y,Y,32500,1,0,0,1,0,1,0,0,0,0,0
-"Dragon, silver, wyrmling",2,Dragon,,Medium,LG,N,N,450,0,0,0,1,1,0,0,0,1,0,0
-"Dragon, silver, young",9,Dragon,,Large,LG,N,N,5000,0,0,1,0,0,0,0,0,0,0,0
-"Dragon, white, adult",13,Dragon,,Huge,CE,Y,Y,10000,0,0,0,0,0,0,0,0,0,0,0
-"Dragon, white, ancient",20,Dragon,,Gargantuan,CE,Y,Y,24500,0,0,0,0,0,0,0,0,0,0,0
-"Dragon, white, wyrmling",2,Dragon,,Medium,CE,N,N,450,0,0,0,1,0,1,0,0,0,0,0
-"Dragon, white, young",6,Dragon,,Large,CE,N,N,2300,0,0,0,0,0,0,0,0,0,0,0
-Drider,6,Monstrosity,,Large,CE,N,N,2300,0,0,0,0,0,0,0,0,0,0,0
+Cockatrice,0.5,Monstrosity,,Small,,N,N,100,0,0,0,0,1,0,0,0,0,0,0
+Crocodile,0.5,Beast,,Large,,N,N,100,0,0,0,0,0,0,0,1,0,0,1
+Darkmantle,0.5,Monstrosity,,Small,,N,N,100,0,0,0,0,0,0,0,0,1,0,0
+"Fungi, gas spore",0.5,Plant,,Large,,N,N,100,0,0,0,0,0,0,0,0,1,0,0
+Gnoll,0.5,Humanoid,Gnoll,Medium,CE,N,N,100,0,0,1,1,1,1,0,0,0,0,0
+"Gnome, deep (Svirfneblin)",0.5,Humanoid,Gnome,Small,NG,N,N,100,0,0,0,0,0,0,0,0,1,0,0
+"Goat, giant",0.5,Beast,,Large,,N,N,100,0,0,0,0,1,1,1,0,0,0,0
+Hobgoblin,0.5,Humanoid,Goblinoid,Medium,LE,N,N,100,0,0,1,1,1,1,0,0,1,0,0
+"Horse, war",0.5,Beast,,Large,,N,N,100,0,0,0,0,0,0,0,0,0,0,1
+Jackalwere,0.5,Humanoid,Shapechanger,Medium,CE,N,N,100,0,0,1,0,1,0,0,0,0,0,0
+Lizardfolk,0.5,Humanoid,Lizardfolk,Medium,N,N,N,100,0,0,0,1,0,0,0,1,0,0,0
+Magmin,0.5,Elemental,,Small,CN,N,N,100,0,0,0,0,0,0,0,0,0,0,0
+"Mephit, dust",0.5,Elemental,,Small,NE,N,N,100,0,0,1,0,0,0,0,0,0,0,0
+"Mephit, ice",0.5,Elemental,,Small,NE,N,N,100,1,0,0,0,0,0,0,0,0,0,0
+"Mephit, magma",0.5,Elemental,,Small,NE,N,N,100,0,0,0,0,0,0,0,0,1,0,0
+"Modron, tridrone",0.5,Construct,,Medium,LN,N,N,100,0,0,0,0,0,0,0,0,0,0,0
+"Myconid, adult",0.5,Plant,,Medium,LN,N,N,100,0,0,0,0,0,0,0,0,1,0,0
+NPC scout,0.5,Humanoid,any,Medium,any,N,N,100,1,1,1,1,1,1,1,1,1,0,0
+NPC thug,0.5,Humanoid,any,Medium,non-G,N,N,100,0,0,0,0,0,0,0,0,0,0,1
+"Ooze, gray",0.5,Ooze,,Medium,,N,N,100,0,0,0,0,0,0,0,0,1,0,0
+Orc,0.5,Humanoid,Orc,Medium,CE,N,N,100,1,0,0,1,1,1,1,1,0,0,0
+Piercer,0.5,Monstrosity,,Medium,,N,N,100,0,0,0,0,0,0,0,0,0,0,0
+Rust monster,0.5,Monstrosity,,Medium,,N,N,100,0,0,0,0,0,0,0,0,0,0,0
+Sahuagin,0.5,Humanoid,Sahuagin,Medium,LE,N,N,100,0,1,0,0,0,0,0,0,0,1,0
+Satyr,0.5,Fey,,Medium,CN,N,N,100,0,0,0,1,0,0,0,0,0,0,0
+"Sea horse, giant",0.5,Beast,,Large,,N,N,100,0,0,0,0,0,0,0,0,0,1,0
+Shadow,0.5,Undead,,Medium,CE,N,N,100,0,0,0,0,0,0,0,0,1,0,1
+"Shark, reef",0.5,Beast,,Medium,,N,N,100,0,0,0,0,0,0,0,0,0,1,0
+"Skeleton, warhorse",0.5,Undead,,Large,LE,N,N,100,0,0,0,0,0,0,0,0,0,0,0
+Swarm of insects,0.5,Beast,,Medium (Tiny),,N,N,100,0,0,1,1,1,1,0,1,1,0,1
+"Wasp, giant",0.5,Beast,,Medium,,N,N,100,0,0,0,1,1,0,0,0,0,0,1
+Worg,0.5,Monstrosity,,Large,NE,N,N,100,0,0,0,1,1,1,0,0,0,0,0
+"Animated object, animated armor",1,Construct,,Medium,,N,N,200,0,0,0,0,0,0,0,0,0,0,0
+"Bear, brown",1,Beast,,Large,,N,N,200,1,0,0,1,0,1,0,0,0,0,0
+Bugbear,1,Humanoid,Goblinoid,Medium,CE,N,N,200,0,0,0,1,1,0,0,0,1,0,0
+Death dog,1,Monstrosity,,Medium,NE,N,N,200,0,0,1,0,0,0,0,0,0,0,0
+"Demon, quasit",1,Fiend,Shapechanger,Tiny,CE,N,N,200,0,0,0,0,0,0,0,0,0,0,0
+"Devil, imp",1,Fiend,Shapechanger,Tiny,LE,N,N,200,0,0,0,0,0,0,0,0,0,0,0
+Dire wolf,1,Beast,,Large,,N,N,200,0,0,0,1,0,1,0,0,0,0,0
+"Dragon, brass, wyrmling",1,Dragon,,Medium,CG,N,N,200,0,0,0,0,0,0,0,0,0,0,0
+"Dragon, copper, wyrmling",1,Dragon,,Medium,CG,N,N,200,0,0,0,0,0,0,0,0,0,0,0
 Dryad,1,Fey,,Medium,N,N,N,200,0,0,0,1,0,0,0,0,0,0,0
 Duergar,1,Humanoid,Dwarf,Medium,LE,N,N,200,0,0,0,0,0,0,0,0,1,0,0
-Eagle,0,Beast,,Small,,N,N,10,0,1,0,0,1,1,1,0,0,0,0
-"Eagle, giant",1,Beast,,Large,NG,N,N,200,0,0,0,1,0,0,0,0,0,0,0
-"Elemental, air",5,Elemental,,Large,N,N,N,1800,0,0,0,0,0,0,0,1,1,0,1
-"Elemental, earth",5,Elemental,,Large,N,N,N,1800,0,0,0,1,1,1,0,0,1,0,0
-"Elemental, fire",5,Elemental,,Large,N,N,N,1800,0,1,0,1,0,1,1,0,0,0,0
-"Elemental, water",5,Elemental,,Large,N,N,N,1800,0,0,0,0,1,1,1,0,0,0,0
-Elephant,4,Beast,,Huge,,N,N,1100,0,0,1,1,1,1,0,0,0,0,0
-"Elf, drow",0.25,Humanoid,Elf,Medium,NE,N,N,50,0,0,0,0,0,0,0,0,1,0,0
-"Elf, drow, elite warrior",5,Humanoid,Elf,Medium,NE,N,N,1800,0,0,1,0,1,1,1,0,0,0,0
-"Elf, drow, mage",7,Humanoid,Elf,Medium,NE,N,N,2900,0,0,0,0,0,0,0,0,0,0,0
-"Elf, drow, priestess of Lolth",8,Humanoid,Elf,Medium,NE,N,N,3900,0,0,0,0,0,0,0,0,1,0,0
-Elk,0.25,Beast,,Large,,N,N,50,0,0,0,0,0,0,0,0,0,0,1
-"Elk, giant",2,Beast,,Huge,,N,N,450,0,0,0,0,0,0,0,0,0,1,0
-Empyrean,23,Celestial,Titan,Huge,CG (75%) NE (25%),Y,N,32500,1,0,1,1,0,1,1,0,1,0,1
-Ettercap,2,Monstrosity,,Medium,NE,N,N,450,0,0,0,0,0,0,0,0,1,0,0
-Ettin,4,Giant,,Large,CE,N,N,1100,0,0,0,0,1,0,0,0,0,0,0
-"Faerie Dragon, Green, Blue, Indigo, Violet",2,Dragon,,Tiny,CG,N,N,450,0,0,0,0,0,0,0,0,1,0,1
-"Faerie Dragon, Red, Orange, Yellow",1,Dragon,,Tiny,CG,N,N,200,0,0,1,1,0,0,0,1,1,0,1
-"Fire beetle, giant",0,Beast,,Small,,N,N,10,0,0,0,0,0,0,0,0,0,1,0
-Flameskull,4,Undead,,Tiny,NE,N,N,1100,0,0,1,0,1,0,0,0,0,0,0
-Flumph,0.125,Aberration,,Small,LG,N,N,25,0,0,0,1,1,0,0,0,0,0,0
-Fomorian,8,Giant,,Huge,CE,N,N,3900,0,1,1,1,0,0,0,1,1,0,0
-Frog,0,Beast,,Tiny,,N,N,0,0,0,1,0,1,0,0,0,0,0,0
-"Frog, giant",0.25,Beast,,Medium,,N,N,50,0,0,1,1,0,0,0,1,0,0,1
-"Fungi, gas spore",0.5,Plant,,Large,,N,N,100,0,0,0,0,0,0,0,0,0,0,0
-"Fungi, shrieker",0,Plant,,Medium,,N,N,10,0,0,0,1,1,0,0,0,0,0,0
-"Fungi, violet",0.25,Plant,,Medium,,N,N,50,0,0,0,1,0,0,0,0,0,0,0
-Galeb duhr,6,Elemental,,Medium,N,N,N,2300,0,0,0,0,0,0,0,0,0,0,0
-Gargoyle,2,Elemental,,Medium,CE,N,N,450,1,0,0,0,0,0,0,0,1,0,0
-"Genie, dao",11,Elemental,,Large,NE,N,N,7200,0,0,0,1,1,1,0,0,0,0,0
-"Genie, djinni",11,Elemental,,Large,CG,N,N,7200,0,0,0,0,0,0,0,0,1,0,0
-"Genie, efreeti",11,Elemental,,Large,LE,N,N,7200,0,0,0,1,1,0,0,0,0,0,0
-"Genie, marid",11,Elemental,,Large,CN,N,N,7200,0,0,0,0,0,0,0,0,0,0,0
-Ghost,4,Undead,,Medium,any,N,N,1100,0,0,0,0,1,0,0,0,0,0,0
-Ghoul,1,Undead,,Medium,CE,N,N,200,0,1,0,0,0,0,0,0,0,1,0
-"Ghoul, ghast",2,Undead,,Medium,CE,N,N,450,0,0,0,0,0,0,0,0,0,0,0
-"Giant, cloud",9,Giant,,Huge,NG (50%) NE(50%),N,N,5000,0,0,0,0,0,0,0,0,0,0,0
-"Giant, fire",9,Giant,,Huge,LE,N,N,5000,0,0,0,0,0,0,0,0,0,0,0
-"Giant, frost",8,Giant,,Huge,NE,N,N,3900,0,0,0,0,0,0,0,0,0,0,0
-"Giant, hill",5,Giant,,Huge,CE,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
-"Giant, stone",7,Giant,,Huge,N,N,N,2900,0,0,0,1,1,1,1,0,0,0,0
-"Giant, storm",13,Giant,,Huge,CG,N,N,10000,0,0,0,1,0,0,0,0,0,0,0
-Gibbering mouther,2,Aberration,,Medium,N,N,N,450,0,0,0,1,0,0,0,0,0,0,0
-"Gith, githyanki knight",8,Humanoid,Gith,Medium,LE,N,N,3900,0,0,0,0,0,0,0,0,1,0,1
-"Gith, githyanki warrior",3,Humanoid,Gith,Medium,LE,N,N,700,0,0,0,0,0,0,0,1,1,0,1
-"Gith, githzerai monk",2,Humanoid,Gith,Medium,LN,N,N,450,0,0,0,0,0,0,0,0,1,0,0
-"Gith, githzerai zerth",6,Humanoid,Gith,Medium,LN,N,N,2300,0,0,0,0,0,0,0,0,0,0,0
-Gnoll,0.5,Humanoid,Gnoll,Medium,CE,N,N,100,0,0,1,1,1,1,0,0,0,0,0
-"Gnoll, fang of Yeenoghu",4,Fiend,Gnoll,Medium,CE,N,N,1100,0,0,0,1,0,0,0,0,1,0,0
-"Gnoll, pack lord",2,Humanoid,Gnoll,Medium,CE,N,N,450,1,1,0,0,1,1,1,0,0,0,0
-"Gnome, deep (Svirfneblin)",0.5,Humanoid,Gnome,Small,NG,N,N,100,0,1,0,0,0,0,0,0,0,1,0
-Goat,0,Beast,,Medium,,N,N,10,0,0,0,0,0,0,0,0,1,0,0
-"Goat, giant",0.5,Beast,,Large,,N,N,100,0,0,0,1,0,0,0,1,0,0,0
-Goblin,0.25,Humanoid,Goblinoid,Small,NE,N,N,50,0,0,0,1,0,0,0,0,0,0,1
-"Goblin, boss",1,Humanoid,Goblinoid,Small,NE,N,N,200,0,1,0,0,0,0,0,0,0,1,0
-"Golem, clay",9,Construct,,Large,,N,N,5000,0,0,0,0,0,0,0,0,1,0,1
-"Golem, flesh",5,Construct,,Medium,,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
-"Golem, iron",16,Construct,,Large,,N,N,15000,0,0,0,0,0,0,0,0,0,0,0
-"Golem, stone",10,Construct,,Large,,N,N,5900,0,0,0,0,0,0,0,0,1,0,0
-Gorgon,5,Monstrosity,,Large,,N,N,1800,1,1,1,1,0,1,0,0,0,0,1
-Grell,3,Aberration,,Medium,NE,N,N,700,1,1,1,1,0,1,1,0,0,0,0
-Grick,2,Monstrosity,,Medium,N,N,N,450,0,0,0,0,0,0,0,0,0,0,1
-"Grick, alpha",7,Monstrosity,,Large,N,N,N,2900,1,1,1,1,1,1,1,1,1,0,0
-Griffon,2,Monstrosity,,Large,,N,N,450,0,0,0,0,0,0,0,0,0,0,1
-Grimlock,0.25,Humanoid,Grimlick,Medium,NE,N,N,50,1,1,1,1,1,1,1,1,1,0,0
-"Hag, green",3,Fey,,Medium,NE,N,N,700,0,0,0,0,0,0,0,0,1,0,0
-"Hag, night",5,Fiend,,Medium,NE,N,N,1800,0,0,0,0,0,0,0,0,1,0,0
-"Hag, sea",2,Fey,,Medium,CE,N,N,450,1,0,0,1,1,1,1,1,1,0,0
-Half-dragon (template),,Dragon,,,,Y,Y,,1,0,0,1,1,1,1,0,1,0,0
-Half-red dragon veteran,5,Humanoid,Human,Medium,any,N,N,1800,0,0,0,1,1,1,0,0,0,0,0
-Harpy,1,Monstrosity,,Medium,CE,N,N,200,0,0,0,0,0,1,1,0,0,0,0
-Hawk,0,Beast,,Tiny,,N,N,10,0,0,0,0,0,0,0,0,1,0,0
-Hell hound,3,Fiend,,Medium,LE,N,N,700,0,0,0,0,1,0,0,0,0,0,0
-Helmed horror,4,Construct,,Medium,N,N,N,1100,1,0,0,0,0,0,1,0,0,0,0
-Hippogriff,1,Monstrosity,,Large,,N,N,200,0,1,0,0,0,0,0,0,0,1,0
-Hobgoblin,0.5,Humanoid,Goblinoid,Medium,LE,N,N,100,0,0,0,0,0,0,0,0,0,1,0
-"Hobgoblin, captain",3,Humanoid,Goblinoid,Medium,LE,N,N,700,0,0,0,0,0,0,0,0,1,0,0
-"Hobgoblin, warlord",6,Humanoid,Goblinoid,Medium,LE,N,N,2300,0,0,1,1,0,0,0,1,1,1,0
-Homunculus,0,Construct,,Tiny,N,N,N,10,0,0,0,0,0,0,0,0,0,0,0
-Hook horror,3,Monstrosity,,Large,N,N,N,700,0,0,0,1,0,0,0,1,0,0,0
-"Horse, draft",0.25,Beast,,Large,,N,N,50,0,0,0,1,0,0,0,1,0,0,1
-"Horse, riding",0.25,Beast,,Large,,N,N,50,0,0,0,0,0,0,0,0,0,0,0
-"Horse, war",0.5,Beast,,Large,,N,N,100,0,0,0,0,0,0,1,0,0,0,0
-Hydra,8,Monstrosity,,Huge,,N,N,3900,0,0,0,0,0,0,0,0,1,0,0
-Hyena,0,Beast,,Medium,,N,N,10,0,0,0,0,0,0,0,0,0,0,0
-"Hyena, giant",1,Beast,,Large,,N,N,200,0,0,0,0,0,0,0,0,0,0,0
-Intellect devourer,2,Aberration,,Tiny,LE,N,N,450,0,0,0,0,1,0,0,0,0,0,0
-Invisible stalker,6,Elemental,,Medium,N,N,N,2300,0,0,0,1,0,0,0,0,0,0,0
-Jackal,0,Beast,,Small,,N,N,10,0,0,0,0,0,0,0,0,1,0,1
-Jackalwere,0.5,Humanoid,Shapechanger,Medium,CE,N,N,100,0,0,0,0,0,0,0,0,0,0,0
-Kenku,0.25,Humanoid,Kenku,Medium,CN,N,N,50,0,0,0,0,0,0,0,0,0,0,0
-Killer whale,3,Beast,,Huge,,N,N,700,0,0,0,0,0,0,0,0,0,0,0
-Kobold,0.125,Humanoid,Kobold,Small,LE,N,N,25,0,0,0,0,0,0,0,0,1,0,0
-"Kobold, winged (urd)",0.25,Humanoid,Kobold,Small,LE,N,N,50,0,0,0,1,0,1,0,1,0,0,0
-Kraken,23,Monstrosity,Titan,Gargantuan,CE,Y,Y,50000,0,0,0,0,0,0,1,0,1,0,0
-Kuo-toa,0.25,Humanoid,Kuo-toa,Medium,NE,N,N,50,0,0,1,1,1,1,0,0,1,0,0
-"Kuo-toa, archpriest",6,Humanoid,Kuo-toa,Medium,NE,N,N,2300,0,0,0,0,0,0,0,0,1,0,0
-"Kuo-toa, monitor",3,Humanoid,Kuo-toa,Medium,NE,N,N,700,0,0,0,0,0,0,0,0,0,1,0
-"Kuo-toa, whip",1,Humanoid,Kuo-toa,Medium,NE,N,N,200,0,0,0,1,0,1,0,0,1,0,0
-Lamia,4,Monstrosity,,Large,CE,N,N,1100,1,1,0,0,1,1,1,0,0,0,0
-Lich,21,Undead,,Medium,E (any),Y,Y,33000,0,0,0,0,0,0,0,0,0,0,0
-Lion,1,Beast,,Large,,N,N,200,0,0,1,0,0,0,0,0,1,0,0
-Lizard,0,Beast,,Tiny,,N,N,10,0,0,0,0,0,0,0,0,0,0,0
-"Lizard, giant",0.25,Beast,,Large,,N,N,50,0,0,0,0,0,0,0,0,0,0,0
-Lizardfolk,0.5,Humanoid,Lizardfolk,Medium,N,N,N,100,1,1,0,1,1,1,1,0,0,0,1
-"Lizardfolk, lizard king/queen",4,Humanoid,Lizardfolk,Medium,CE,N,N,1100,0,0,0,1,0,0,0,0,1,0,1
-"Lizardfolk, shaman",2,Humanoid,Lizardfolk,Medium,N,N,N,450,0,0,0,0,0,0,0,0,0,0,0
-"Lycanthrope, werebear",5,Humanoid,Shapechanger,Medium,NG,N,N,1800,0,0,1,0,0,0,0,0,1,0,0
-"Lycanthrope, wereboar",4,Humanoid,Shapechanger,Medium,NE,N,N,1100,0,0,1,1,1,1,0,0,0,0,0
-"Lycanthrope, wererat",2,Humanoid,Shapechanger,Medium,LE,N,N,450,0,0,0,0,0,0,0,0,1,0,1
-"Lycanthrope, weretiger",4,Humanoid,Shapechanger,Medium,N,N,N,1100,0,0,1,0,0,0,0,1,1,0,1
-"Lycanthrope, werewolf",3,Humanoid,Shapechanger,Medium,CE,N,N,700,1,0,0,0,0,0,0,0,1,0,1
-Magmin,0.5,Elemental,,Small,CN,N,N,100,1,0,0,0,0,0,0,0,0,0,0
-Mammoth,6,Beast,,Huge,,N,N,2300,0,0,1,1,0,0,0,1,0,0,0
-Manticore,3,Monstrosity,,Large,LE,N,N,700,0,1,0,1,0,0,0,0,0,0,0
-Mastiff,0.125,Beast,,Medium,,N,N,25,0,0,0,0,0,0,0,0,0,0,0
-Medusa,6,Monstrosity,,Medium,LE,N,N,2300,0,0,1,1,1,0,0,0,1,0,0
-"Mephit, dust",0.5,Elemental,,Small,NE,N,N,100,0,0,0,0,0,0,0,0,0,0,1
-"Mephit, ice",0.5,Elemental,,Small,NE,N,N,100,0,0,0,0,0,0,0,0,0,0,0
-"Mephit, magma",0.5,Elemental,,Small,NE,N,N,100,0,0,0,0,1,0,0,0,0,0,0
-"Mephit, mud",0.25,Elemental,,Small,NE,N,N,50,0,0,0,0,0,1,1,0,0,0,0
-"Mephit, smoke",0.25,Elemental,,Small,NE,N,N,50,0,0,0,0,0,0,0,0,1,0,0
-"Mephit, steam",0.25,Elemental,,Small,NE,N,N,50,0,0,0,0,0,0,0,0,1,0,0
-Merfolk,0.125,Humanoid,Merfolk,Medium,N,N,N,25,0,0,1,1,1,1,0,0,1,0,1
-Merrow,2,Monstrosity,,Large,CE,N,N,450,0,0,0,0,0,0,0,0,0,0,0
-Mimic,2,Monstrosity,Shapechanger,Medium,N,N,N,450,0,0,1,0,0,0,0,0,0,0,0
-Mind flayer,7,Aberration,,Medium,LE,N,N,2900,0,0,0,0,0,0,0,0,0,0,0
-"Mind flayer, arcanist",8,Aberration,,Medium,LE,N,N,3900,0,0,0,1,1,1,0,0,0,0,0
-Minotaur,3,Monstrosity,,Large,CE,N,N,700,0,0,1,1,1,0,0,0,0,0,0
-"Modron, duodrone",0.25,Construct,,Medium,LN,N,N,50,0,0,0,0,0,0,0,0,0,0,0
-"Modron, monodrone",0.125,Construct,,Medium,LN,N,N,25,0,0,0,0,0,0,0,0,1,0,0
-"Modron, pentadrone",2,Construct,,Large,LN,N,N,450,0,0,0,0,0,0,0,0,1,0,0
+"Eagle, giant",1,Beast,,Large,NG,N,N,200,0,1,0,0,1,1,1,0,0,0,0
+"Faerie Dragon, Red, Orange, Yellow",1,Dragon,,Tiny,CG,N,N,200,0,0,0,1,0,0,0,0,0,0,0
+Ghoul,1,Undead,,Medium,CE,N,N,200,0,0,0,0,0,0,0,1,1,0,1
+"Goblin, boss",1,Humanoid,Goblinoid,Small,NE,N,N,200,0,0,0,1,1,1,0,0,1,0,0
+Harpy,1,Monstrosity,,Medium,CE,N,N,200,0,1,0,1,0,1,1,0,0,0,0
+Hippogriff,1,Monstrosity,,Large,,N,N,200,0,0,0,0,1,1,1,0,0,0,0
+"Hyena, giant",1,Beast,,Large,,N,N,200,0,0,1,1,1,1,0,0,0,0,0
+"Kuo-toa, whip",1,Humanoid,Kuo-toa,Medium,NE,N,N,200,0,0,0,0,0,0,0,0,1,0,0
+Lion,1,Beast,,Large,,N,N,200,0,0,1,0,1,1,1,0,0,0,0
 "Modron, quadrone",1,Construct,,Medium,LN,N,N,200,0,0,0,0,0,0,0,0,0,0,0
-"Modron, tridrone",0.5,Construct,,Medium,LN,N,N,100,0,0,0,0,1,1,1,0,0,0,1
-Mule,0.125,Beast,,Medium,,N,N,25,0,0,0,0,0,0,0,0,0,0,0
-Mummy,3,Undead,,Medium,LE,N,N,700,0,0,0,0,0,0,0,1,0,0,1
-Mummy lord,15,Undead,,Medium,LE,Y,Y,13000,0,0,0,0,0,0,0,0,0,0,0
-"Myconid, adult",0.5,Plant,,Medium,LN,N,N,100,0,0,0,0,0,0,0,0,0,0,0
-"Myconid, quaggoth spore servant",1,Plant,,Medium,,N,N,200,0,0,0,0,1,0,0,0,0,0,0
-"Myconid, sovereign",2,Plant,,Large,LN,N,N,450,0,0,1,0,0,0,1,0,0,0,0
-"Myconid, spore servant (template)",,Plant,,,,N,N,,0,0,0,0,0,0,0,0,0,0,0
-"Myconid, sprout",0,Plant,,Small,LN,N,N,10,0,0,1,0,0,0,0,0,1,0,0
-"Naga, bone",4,Undead,,Large,LE,N,N,1100,0,1,0,0,0,0,0,1,0,0,0
-"Naga, guardian",10,Monstrosity,,Large,LG,N,N,5900,0,0,0,0,0,0,0,0,0,1,0
-"Naga, spirit",8,Monstrosity,,Large,CE,N,N,3900,0,0,0,0,0,1,0,0,1,0,0
-Nightmare,3,Fiend,,Large,NE,N,N,700,0,0,0,0,0,0,0,0,0,0,0
-Nothic,2,Aberration,,Medium,NE,N,N,450,0,0,0,1,1,1,0,0,0,0,0
-NPC acolyte,0.25,Humanoid,any,Medium,any,N,N,50,0,0,0,0,0,0,0,0,0,0,0
-NPC archmage,12,Humanoid,any,Medium,any,N,N,8400,0,0,0,0,0,0,0,0,0,0,0
-NPC assassin,8,Humanoid,any,Medium,non-G,N,N,3900,1,0,0,1,0,1,0,0,0,0,0
-NPC bandit,0.125,Humanoid,any,Medium,non-L,N,N,25,0,0,0,0,0,0,0,0,0,0,0
-NPC bandit captain,2,Humanoid,any,Medium,non-L,N,N,450,0,0,0,0,0,0,0,0,0,0,1
-NPC berserker,2,Humanoid,any,Medium,C (any),N,N,450,1,0,0,0,0,0,0,0,1,0,0
-NPC commoner,0,Humanoid,any,Medium,any,N,N,10,1,0,1,1,0,1,0,1,0,0,0
+"Myconid, quaggoth spore servant",1,Plant,,Medium,,N,N,200,0,0,0,0,0,0,0,0,1,0,0
+NPC spy,1,Humanoid,any,Medium,any,N,N,200,0,0,0,0,0,0,0,0,0,0,1
+"Octopus, giant",1,Beast,,Large,,N,N,200,0,0,0,0,0,0,0,0,0,1,0
+"Ogre, half- (ogrillon)",1,Giant,,Large,CE,N,N,200,1,0,1,1,0,1,1,0,1,0,1
+"Salamander, fire snake",1,Elemental,,Medium,NE,N,N,200,0,0,0,0,0,0,0,0,1,0,0
+Scarecrow,1,Construct,,Medium,CE,N,N,200,0,0,0,0,1,0,0,0,0,0,0
+Specter,1,Undead,,Medium,CE,N,N,200,0,0,0,0,0,0,0,0,1,0,1
+"Spider, giant",1,Beast,,Large,,N,N,1800,0,0,1,1,0,0,0,1,1,0,1
+Swarm of quippers,1,Beast,,Medium (Tiny),,N,N,200,0,0,0,0,0,0,0,0,0,1,0
+Thri-kreen,1,Humanoid,Thri-kreen,Medium,CN,N,N,200,0,0,1,0,1,0,0,0,0,0,0
+Tiger,1,Beast,,Large,,N,N,200,0,0,0,1,1,0,0,0,0,0,0
+"Toad, giant",1,Beast,,Large,,N,N,200,0,1,1,1,0,0,0,1,1,0,0
+"Vulture, giant",1,Beast,,Large,NE,N,N,200,0,0,1,0,1,0,0,0,0,0,0
+"Yuan-ti, pureblood",1,Monstrosity,Yuan-ti,Medium,NE,N,N,200,0,0,1,1,0,0,0,1,0,0,1
+"Animated object, rug of smothering",2,Construct,,Large,,N,N,450,0,0,0,0,0,0,0,0,0,0,0
+Ankheg,2,Monstrosity,,Large,,N,N,450,0,0,0,1,1,0,0,0,0,0,0
+Awakened tree,2,Plant,,Huge,,N,N,450,0,0,0,1,0,0,0,0,0,0,0
+Azer,2,Elemental,,Medium,LN,N,N,450,0,0,0,0,0,0,0,0,0,0,0
+"Bear, polar/cave",2,Beast,,Large,,N,N,450,1,0,0,0,0,0,0,0,1,0,0
+"Boar, giant",2,Beast,,Large,,N,N,450,0,0,0,1,1,1,0,0,0,0,0
+Carrion crawler,2,Monstrosity,,Large,,N,N,450,0,0,0,0,0,0,0,0,1,0,0
+Centaur,2,Monstrosity,,Large,NG,N,N,450,0,0,0,1,1,0,0,0,0,0,0
+"Devil, spined",2,Fiend,Devil,Small,LE,N,N,450,0,0,0,0,0,0,0,0,0,0,0
+"Dinosaur, allosaurus",2,Beast,,Large,,N,N,450,0,0,0,0,1,0,0,0,0,0,0
+"Dinosaur, plesiosaurus",2,Beast,,Large,,N,N,450,0,1,0,0,0,0,0,0,0,1,0
+"Dragon, black, wyrmling",2,Dragon,,Medium,CE,N,N,450,0,0,0,0,0,0,0,0,0,0,0
+"Dragon, bronze, wyrmling",2,Dragon,,Medium,LG,N,N,450,0,0,0,0,0,0,0,0,0,0,0
+"Dragon, green, wyrmling",2,Dragon,,Medium,LE,N,N,450,0,0,0,0,0,0,0,0,0,0,0
+"Dragon, silver, wyrmling",2,Dragon,,Medium,LG,N,N,450,0,0,0,0,0,0,0,0,0,0,0
+"Dragon, white, wyrmling",2,Dragon,,Medium,CE,N,N,450,0,0,0,0,0,0,0,0,0,0,0
+"Elk, giant",2,Beast,,Huge,,N,N,450,0,0,0,1,1,1,1,0,0,0,0
+Ettercap,2,Monstrosity,,Medium,NE,N,N,450,0,0,0,1,0,0,0,0,0,0,0
+"Faerie Dragon, Green, Blue, Indigo, Violet",2,Dragon,,Tiny,CG,N,N,450,0,0,0,1,0,0,0,0,0,0,0
+Gargoyle,2,Elemental,,Medium,CE,N,N,450,0,0,0,0,0,0,0,0,1,0,1
+"Ghoul, ghast",2,Undead,,Medium,CE,N,N,450,0,0,0,0,0,0,0,1,1,0,1
+Gibbering mouther,2,Aberration,,Medium,N,N,N,450,0,0,0,0,0,0,0,0,1,0,0
+"Gith, githzerai monk",2,Humanoid,Gith,Medium,LN,N,N,450,0,0,0,0,0,0,0,0,0,0,0
+"Gnoll, pack lord",2,Humanoid,Gnoll,Medium,CE,N,N,450,0,0,1,1,1,1,0,0,0,0,0
+Grick,2,Monstrosity,,Medium,N,N,N,450,0,0,0,1,0,0,0,0,1,0,0
+Griffon,2,Monstrosity,,Large,,N,N,450,1,1,0,0,1,1,1,0,0,0,0
+"Hag, sea",2,Fey,,Medium,CE,N,N,450,0,1,0,0,0,0,0,0,0,1,0
+Intellect devourer,2,Aberration,,Tiny,LE,N,N,450,0,0,0,0,0,0,0,0,1,0,0
+"Lizardfolk, shaman",2,Humanoid,Lizardfolk,Medium,N,N,N,450,0,0,0,1,0,0,0,1,0,0,0
+"Lycanthrope, wererat",2,Humanoid,Shapechanger,Medium,LE,N,N,450,0,0,0,1,0,0,0,0,0,0,1
+Merrow,2,Monstrosity,,Large,CE,N,N,450,0,1,0,0,0,0,0,0,0,1,0
+Mimic,2,Monstrosity,Shapechanger,Medium,N,N,N,450,0,0,0,0,0,0,0,0,1,0,1
+"Modron, pentadrone",2,Construct,,Large,LN,N,N,450,0,0,0,0,0,0,0,0,0,0,0
+"Myconid, sovereign",2,Plant,,Large,LN,N,N,450,0,0,0,0,0,0,0,0,0,0,0
+Nothic,2,Aberration,,Medium,NE,N,N,450,0,0,0,0,0,0,0,0,1,0,0
+NPC bandit captain,2,Humanoid,any,Medium,non-L,N,N,450,1,1,1,1,0,1,0,0,0,0,1
+NPC berserker,2,Humanoid,any,Medium,C (any),N,N,450,1,1,1,1,0,1,1,0,0,0,0
 NPC cult fanatic,2,Humanoid,any,Medium,non-G,N,N,450,0,0,0,0,0,0,0,0,0,0,1
-NPC cultist,0.125,Humanoid,any,Medium,non-G,N,N,25,0,1,0,0,0,0,0,0,1,0,0
-NPC druid,2,Humanoid,any,Medium,any,N,N,450,0,0,0,0,0,0,0,0,0,1,0
-NPC gladiator,5,Humanoid,any,Medium,any,N,N,1800,0,0,0,1,0,0,0,1,1,0,0
-NPC guard,0.125,Humanoid,any,Medium,any,N,N,25,0,0,0,0,0,0,0,0,0,0,0
-NPC knight,3,Humanoid,any,Medium,any,N,N,700,0,0,0,0,0,0,0,0,0,1,0
-NPC mage,6,Humanoid,any,Medium,any,N,N,2300,1,0,0,1,0,1,1,1,0,0,0
-NPC noble,0.125,Humanoid,any,Medium,any,N,N,25,0,0,0,0,0,0,0,0,1,0,0
-NPC priest,2,Humanoid,any,Medium,any,N,N,450,0,0,0,1,0,0,0,0,1,0,0
-NPC scout,0.5,Humanoid,any,Medium,any,N,N,100,0,0,0,0,0,0,0,0,0,0,0
-NPC spy,1,Humanoid,any,Medium,any,N,N,200,0,0,0,0,0,0,0,0,1,0,1
-NPC thug,0.5,Humanoid,any,Medium,non-G,N,N,100,0,0,0,0,0,0,0,0,1,0,0
-NPC tribal warrior,0.125,Humanoid,any,Medium,any,N,N,25,0,0,0,0,0,0,0,0,1,0,0
-NPC veteran,3,Humanoid,any,Medium,any,N,N,700,0,0,0,0,0,0,0,0,0,0,0
-Octopus,0,Beast,,Small,,N,N,10,0,0,0,0,1,1,1,0,1,0,0
-"Octopus, giant",1,Beast,,Large,,N,N,200,0,1,1,0,1,1,1,0,1,0,0
-Ogre,2,Giant,,Large,CE,N,N,450,0,0,0,0,0,0,0,0,1,0,0
-"Ogre, half- (ogrillon)",1,Giant,,Large,CE,N,N,200,0,0,0,0,0,0,0,0,0,0,0
-Oni (ogre mage),7,Giant,,Large,LE,N,N,2900,0,0,1,0,0,0,0,0,0,0,0
-"Ooze, black pudding",4,Ooze,,Large,,N,N,1100,1,0,0,0,0,0,0,0,0,0,0
-"Ooze, gelatinous cube",2,Ooze,,Large,,N,N,450,0,0,0,0,0,0,0,0,0,0,0
-"Ooze, gray",0.5,Ooze,,Medium,,N,N,100,0,0,0,0,0,1,1,0,1,0,0
-"Ooze, ochre jelly",2,Ooze,,Large,,N,N,450,0,0,0,0,0,0,0,0,0,0,0
-Orc,0.5,Humanoid,Orc,Medium,CE,N,N,100,0,0,0,0,0,0,0,0,0,0,0
+NPC druid,2,Humanoid,any,Medium,any,N,N,450,1,1,1,1,1,1,1,1,1,0,0
+NPC priest,2,Humanoid,any,Medium,any,N,N,450,0,0,0,0,0,0,0,0,0,0,1
+Ogre,2,Giant,,Large,CE,N,N,450,1,1,1,1,1,1,1,1,1,0,0
+"Ooze, gelatinous cube",2,Ooze,,Large,,N,N,450,0,0,0,0,0,0,0,0,1,0,0
+"Ooze, ochre jelly",2,Ooze,,Large,,N,N,450,0,0,0,0,0,0,0,0,1,0,0
+"Orc, eye of Gruumsh",2,Humanoid,Orc,Medium,CE,N,N,450,1,0,0,1,1,1,1,1,1,0,0
+"Orc, orog",2,Humanoid,Orc,Medium,CE,N,N,450,1,0,0,1,1,1,1,0,1,0,0
+Pegasus,2,Celestial,,Large,CG,N,N,450,0,0,0,1,1,1,0,0,0,0,0
+Peryton,2,Monstrosity,,Large,CE,N,N,450,0,0,0,0,0,1,1,0,0,0,0
+Quaggoth,2,Humanoid,Quoggoth,Medium,CN,N,N,450,0,0,0,0,0,0,0,0,1,0,0
+Rhinoceros,2,Beast,,Large,,N,N,450,0,0,0,0,1,0,0,0,0,0,0
+Saber-toothed tiger,2,Beast,,Large,,N,N,450,1,0,0,0,0,0,1,0,0,0,0
+"Sahuagin, priestess",2,Humanoid,Sahuagin,Medium,LE,N,N,450,0,1,0,0,0,0,0,0,0,1,0
+"Shark, hunter",2,Beast,,Large,,N,N,450,0,0,0,0,0,0,0,0,0,1,0
+"Skeleton, minotaur",2,Undead,,Large,LE,N,N,450,0,0,0,0,0,0,0,0,1,0,0
+"Snake, giant constrictor",2,Beast,,Huge,,N,N,450,0,0,1,1,0,0,0,1,1,1,0
+"Specter, poltergeist",2,Undead,,Medium,CE,N,N,450,0,0,0,0,0,0,0,0,0,0,0
+Swarm of poisonous snakes,2,Beast,,Medium (Tiny),,N,N,450,0,0,0,1,0,0,0,1,0,0,0
+Will-o'-wisp,2,Undead,,Tiny,CE,N,N,450,0,0,0,1,0,0,0,1,0,0,1
+"Zombie, ogre",2,Undead,,Large,NE,N,N,450,0,0,0,0,0,0,0,0,0,0,0
+Basilisk,3,Monstrosity,,Medium,,N,N,700,0,0,0,0,0,0,1,0,0,0,0
+"Beholder, spectator",3,Aberration,,Medium,LN,N,N,700,0,0,0,0,0,0,0,0,1,0,0
+Bugbear chief,3,Humanoid,Goblinoid,Medium,CE,N,N,700,0,0,0,0,0,0,0,0,0,0,0
+"Devil, bearded",3,Fiend,Devil,Medium,LE,N,N,700,0,0,0,0,0,0,0,0,0,0,0
+"Dinosaur, ankylosaurus",3,Beast,,Huge,,N,N,700,0,0,0,0,1,0,0,0,0,0,0
+Displacer beast,3,Monstrosity,,Large,LE,N,N,700,0,0,0,1,0,0,0,0,0,0,0
+Doppelganger,3,Monstrosity,Shapechanger,Medium,N,N,N,700,0,0,0,0,0,0,0,0,1,0,1
+"Dragon, blue, wyrmling",3,Dragon,,Medium,LE,N,N,700,0,0,0,0,0,0,0,0,0,0,0
+"Dragon, gold, wyrmling",3,Dragon,,Medium,LG,N,N,700,0,0,0,0,0,0,0,0,0,0,0
+"Gith, githyanki warrior",3,Humanoid,Gith,Medium,LE,N,N,700,0,0,0,0,0,0,0,0,0,0,0
+Grell,3,Aberration,,Medium,NE,N,N,700,0,0,0,0,0,0,0,0,1,0,0
+"Hag, green",3,Fey,,Medium,NE,N,N,700,0,0,0,1,0,1,0,1,0,0,0
+Hell hound,3,Fiend,,Medium,LE,N,N,700,0,0,0,0,0,0,1,0,1,0,0
+"Hobgoblin, captain",3,Humanoid,Goblinoid,Medium,LE,N,N,700,0,0,1,1,1,1,0,0,1,0,0
+Hook horror,3,Monstrosity,,Large,N,N,N,700,0,0,0,0,0,0,0,0,1,0,0
+Killer whale,3,Beast,,Huge,,N,N,700,0,0,0,0,0,0,0,0,0,1,0
+"Kuo-toa, monitor",3,Humanoid,Kuo-toa,Medium,NE,N,N,700,0,0,0,1,0,1,0,0,1,0,0
+"Lycanthrope, werewolf",3,Humanoid,Shapechanger,Medium,CE,N,N,700,1,1,0,0,1,1,1,0,0,0,0
+Manticore,3,Monstrosity,,Large,LE,N,N,700,0,0,0,0,0,0,0,0,0,0,0
+Minotaur,3,Monstrosity,,Large,CE,N,N,700,0,0,1,0,0,0,0,0,1,0,0
+Mummy,3,Undead,,Medium,LE,N,N,700,0,0,0,0,0,0,0,0,0,0,0
+Nightmare,3,Fiend,,Large,NE,N,N,700,0,0,0,0,0,0,0,0,0,0,0
+NPC knight,3,Humanoid,any,Medium,any,N,N,700,1,1,0,1,1,1,1,0,0,0,1
+NPC veteran,3,Humanoid,any,Medium,any,N,N,700,0,0,0,1,0,0,0,0,1,0,1
+Owlbear,3,Monstrosity,,Large,,N,N,700,0,0,0,0,0,0,0,0,0,0,0
+"Quaggoth, thonot",3,Humanoid,Quoggoth,Medium,CN,N,N,700,0,0,1,0,0,0,0,0,1,0,0
+"Scorpion, giant",3,Beast,,Large,,N,N,700,0,0,1,1,1,1,0,0,0,0,0
+"Spider, phase",3,Monstrosity,,Large,,N,N,700,0,0,0,0,0,0,0,0,1,0,1
+Water weird,3,Elemental,,Large,N,N,N,700,0,0,1,0,0,0,0,1,1,0,1
+Wight,3,Undead,,Medium,NE,N,N,700,1,0,0,0,0,0,0,0,1,0,1
+Winter wolf,3,Monstrosity,,Large,NE,N,N,700,1,0,0,0,0,0,0,0,0,0,0
+Yeti,3,Monstrosity,,Large,CE,N,N,700,0,0,1,1,0,0,0,1,0,0,0
+"Yuan-ti, malison",3,Monstrosity,Shapechanger,Medium,NE,N,N,700,0,1,0,1,0,0,0,0,0,0,0
+Banshee,4,Undead,,Medium,CE,N,N,1100,0,0,0,0,0,0,0,0,0,0,0
+Chuul,4,Aberration,,Large,CE,N,N,1100,0,0,1,1,1,0,0,0,1,0,0
+Couatl,4,Celestial,,Medium,LG,N,N,1100,0,0,0,0,0,0,0,0,0,0,1
+"Demon, shadow",4,Fiend,Demon,Medium,CE,N,N,1100,0,0,0,0,0,0,0,0,0,0,0
+"Dragon, red, wyrmling",4,Dragon,,Medium,CE,N,N,1100,0,0,0,0,1,0,0,0,0,0,0
+Elephant,4,Beast,,Huge,,N,N,1100,0,0,0,0,0,1,1,0,0,0,0
+Ettin,4,Giant,,Large,CE,N,N,1100,0,0,0,0,0,0,0,0,1,0,0
+Flameskull,4,Undead,,Tiny,NE,N,N,1100,0,0,0,0,0,0,0,0,1,0,0
+Ghost,4,Undead,,Medium,any,N,N,1100,0,0,1,1,1,1,0,0,1,0,1
+"Gnoll, fang of Yeenoghu",4,Fiend,Gnoll,Medium,CE,N,N,1100,0,0,0,0,0,0,0,0,0,0,0
+Helmed horror,4,Construct,,Medium,N,N,N,1100,0,0,1,0,0,0,0,0,0,0,0
+Lamia,4,Monstrosity,,Large,CE,N,N,1100,0,0,0,0,0,0,0,0,0,0,0
+"Lizardfolk, lizard king/queen",4,Humanoid,Lizardfolk,Medium,CE,N,N,1100,0,0,0,1,1,1,0,0,0,0,0
+"Lycanthrope, wereboar",4,Humanoid,Shapechanger,Medium,NE,N,N,1100,0,0,1,1,1,0,0,0,0,0,0
+"Lycanthrope, weretiger",4,Humanoid,Shapechanger,Medium,N,N,N,1100,0,0,0,0,0,0,0,0,0,0,0
+"Naga, bone",4,Undead,,Large,LE,N,N,1100,0,0,0,0,0,0,0,0,1,0,0
+"Ooze, black pudding",4,Ooze,,Large,,N,N,1100,0,0,0,0,0,0,0,0,1,0,0
 Orc war chief,4,Humanoid,Orc,Medium,CE,N,N,1100,0,0,0,0,0,0,0,0,0,0,0
-"Orc, eye of Gruumsh",2,Humanoid,Orc,Medium,CE,N,N,450,0,0,0,0,0,0,0,0,0,0,1
-"Orc, orog",2,Humanoid,Orc,Medium,CE,N,N,450,1,0,0,0,0,0,0,0,0,0,0
-Otyugh,5,Aberration,,Large,N,N,N,1800,0,0,1,0,0,0,0,0,0,0,0
-Owl,0,Beast,,Tiny,,N,N,10,0,0,0,0,0,0,0,0,0,0,0
-"Owl, giant",0.25,Beast,,Large,N,N,N,50,0,0,0,0,0,1,1,0,0,0,1
-Owlbear,3,Monstrosity,,Large,,N,N,700,0,0,0,1,0,0,0,0,0,0,0
-Panther,0.25,Beast,,Medium,,N,N,50,0,0,0,0,0,0,0,1,0,0,0
-Pegasus,2,Celestial,,Large,CG,N,N,450,0,0,0,0,0,1,0,0,0,0,0
-Peryton,2,Monstrosity,,Large,CE,N,N,450,0,0,0,0,0,0,0,0,0,0,0
-Piercer,0.5,Monstrosity,,Medium,,N,N,100,0,0,0,0,0,1,1,0,1,0,0
-Pixie,0.25,Fey,,Tiny,NG,N,N,50,0,0,0,1,0,0,0,0,1,0,0
-Pony,0.125,Beast,,Medium,,N,N,25,0,0,0,0,0,0,0,0,1,0,0
-Pseudodragon,0.25,Dragon,,Tiny,NG,N,N,50,0,0,0,1,0,0,0,0,1,0,0
-Purple worm,15,Monstrosity,,Gargantuan,,N,N,13000,0,0,0,0,0,0,0,0,0,0,1
-Quaggoth,2,Humanoid,Quoggoth,Medium,CN,N,N,450,0,0,0,0,0,0,0,0,0,0,1
-"Quaggoth, thonot",3,Humanoid,Quoggoth,Medium,CN,N,N,700,0,0,1,1,0,0,0,1,0,0,0
-Quipper,0,Beast,,Tiny,,N,N,10,0,0,0,0,0,0,0,0,0,0,0
-Rakshasa,13,Fiend,,Medium,LE,N,N,10000,0,0,0,0,0,0,0,0,1,0,0
-Rat,0,Beast,,Tiny,,N,N,10,0,0,0,0,0,0,0,0,0,0,0
-"Rat, giant",0.125,Beast,,Small,,N,N,25,0,0,0,0,1,0,0,0,0,0,0
-Raven,0,Beast,,Tiny,,N,N,10,0,1,0,0,0,0,0,0,0,0,0
-Remorhaz,11,Monstrosity,,Huge,,N,N,7200,0,0,0,1,0,0,0,0,0,0,0
-"Remorhaz, young",5,Monstrosity,,Large,,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
-Revenant,5,Undead,,Medium,N,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
-Rhinoceros,2,Beast,,Large,,N,N,450,1,0,0,0,0,0,1,0,1,0,0
-Roc,11,Monstrosity,,Gargantuan,,N,N,7200,0,0,0,0,0,0,0,0,0,0,0
-Roper,5,Monstrosity,,Large,NE,N,N,1800,0,0,0,0,0,0,0,1,0,0,0
-Rust monster,0.5,Monstrosity,,Medium,,N,N,100,0,0,0,0,0,0,0,0,0,0,0
-Saber-toothed tiger,2,Beast,,Large,,N,N,450,0,0,0,0,0,0,0,0,1,0,0
-Sahuagin,0.5,Humanoid,Sahuagin,Medium,LE,N,N,100,0,0,0,0,0,0,0,0,1,0,0
-"Sahuagin, baron",5,Humanoid,Sahuagin,Large,LE,N,N,1800,0,0,0,0,0,0,0,0,0,0,1
-"Sahuagin, priestess",2,Humanoid,Sahuagin,Medium,LE,N,N,450,0,0,0,0,0,0,0,0,0,0,0
-Salamander,5,Elemental,,Large,NE,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
-"Salamander, fire snake",1,Elemental,,Medium,NE,N,N,200,0,1,1,0,0,0,0,0,0,0,0
-Satyr,0.5,Fey,,Medium,CN,N,N,100,0,0,0,0,0,0,1,0,0,0,0
-Scarecrow,1,Construct,,Medium,CE,N,N,200,0,0,0,0,0,0,1,0,0,0,1
-Scorpion,0,Beast,,Tiny,,N,N,10,0,0,0,0,0,0,1,0,0,0,0
-"Scorpion, giant",3,Beast,,Large,,N,N,700,0,0,0,0,0,0,0,0,1,0,0
-Sea horse,0,Beast,,Tiny,,N,N,0,0,0,0,0,0,0,0,0,0,0,0
-"Sea horse, giant",0.5,Beast,,Large,,N,N,100,0,0,0,1,0,0,0,0,0,0,1
-Shadow,0.5,Undead,,Medium,CE,N,N,100,1,0,0,0,0,0,0,0,0,0,0
+Succubus/incubus,4,Fiend,Shapechanger,Medium,NE,N,N,1100,0,0,0,0,1,1,1,0,0,0,1
+Bulette,5,Monstrosity,,Large,,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
+Cambion,5,Fiend,,Medium,E (any),N,N,1800,0,0,0,0,0,0,0,1,0,0,1
+"Crocodile, giant",5,Beast,,Huge,,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
+"Demon, barlgura",5,Fiend,Demon,Large,CE,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
+"Devil, barbed",5,Fiend,Devil,Medium,LE,N,N,1800,0,0,0,0,1,0,0,0,0,0,0
+"Dinosaur, triceratops",5,Beast,,Huge,,N,N,1800,0,0,1,0,0,0,1,0,0,0,0
+"Elemental, air",5,Elemental,,Large,N,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
+"Elemental, earth",5,Elemental,,Large,N,N,N,1800,0,0,1,0,0,0,0,0,1,0,0
+"Elemental, fire",5,Elemental,,Large,N,N,N,1800,0,1,0,0,0,0,0,1,0,0,0
+"Elemental, water",5,Elemental,,Large,N,N,N,1800,0,0,0,0,0,0,0,0,0,1,0
+"Elf, drow, elite warrior",5,Humanoid,Elf,Medium,NE,N,N,1800,0,0,0,0,0,1,0,0,1,0,0
+"Giant, hill",5,Giant,,Huge,CE,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
+"Golem, flesh",5,Construct,,Medium,,N,N,1800,0,0,0,1,1,1,0,0,0,0,0
+Gorgon,5,Monstrosity,,Large,,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
+"Hag, night",5,Fiend,,Medium,NE,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
+Half-red dragon veteran,5,Humanoid,Human,Medium,any,N,N,1800,1,0,0,1,0,1,0,0,0,0,0
+"Lycanthrope, werebear",5,Humanoid,Shapechanger,Medium,NG,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
+NPC gladiator,5,Humanoid,any,Medium,any,N,N,1800,0,0,0,0,0,0,0,0,0,0,1
+Otyugh,5,Aberration,,Large,N,N,N,1800,1,0,0,0,0,0,0,0,1,0,0
+"Remorhaz, young",5,Monstrosity,,Large,,N,N,1800,1,0,1,1,0,1,0,1,0,0,0
+Revenant,5,Undead,,Medium,N,N,N,1800,0,0,0,0,0,0,0,0,0,0,1
+Roper,5,Monstrosity,,Large,NE,N,N,1800,0,1,0,0,0,0,0,0,1,0,0
+"Sahuagin, baron",5,Humanoid,Sahuagin,Large,LE,N,N,1800,0,0,0,0,0,0,0,0,0,1,0
+Salamander,5,Elemental,,Large,NE,N,N,1800,0,0,0,1,0,0,0,1,1,0,0
 Shambling mound,5,Plant,,Large,,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
-"Shark, giant",5,Beast,,Huge,,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
-"Shark, hunter",2,Beast,,Large,,N,N,450,0,0,0,0,0,0,0,0,1,0,0
-"Shark, reef",0.5,Beast,,Medium,,N,N,100,0,0,0,0,0,0,0,0,0,0,0
-Shield guardian,7,Construct,,Large,,N,N,2900,0,0,0,1,1,0,0,0,0,0,0
-Skeleton,0.25,Undead,,Medium,LE,N,N,50,0,0,0,0,0,1,1,0,0,0,0
-"Skeleton, minotaur",2,Undead,,Large,LE,N,N,450,0,0,0,0,0,0,0,0,0,0,0
-"Skeleton, warhorse",0.5,Undead,,Large,LE,N,N,100,0,0,1,1,0,0,0,0,0,0,0
-"Slaad, blue",7,Aberration,,Large,CN,N,N,2900,0,0,0,0,0,0,0,0,0,0,0
-"Slaad, death",10,Aberration,Shapechanger,Medium,CE,N,N,5900,0,0,0,0,0,0,0,0,0,0,0
-"Slaad, gray",9,Aberration,,Medium,CN,N,N,5000,0,0,0,0,0,0,0,0,1,0,0
-"Slaad, green",8,Aberration,,Large,CN,N,N,3900,0,0,0,0,0,0,0,0,0,0,0
-"Slaad, red",5,Aberration,,Large,CN,N,N,1800,0,1,0,0,0,0,0,0,1,0,0
-"Slaad, tadpole",0.125,Aberration,,Tiny,CN,N,N,25,0,0,1,0,0,0,0,0,0,0,0
-"Snake, constrictor",0.25,Beast,,Large,,N,N,50,0,1,0,0,0,0,0,0,0,0,0
-"Snake, flying",0.125,Beast,,Tiny,,N,N,25,1,0,0,0,0,0,0,0,0,1,0
-"Snake, giant constrictor",2,Beast,,Huge,,N,N,450,1,1,1,0,0,1,1,0,0,0,0
-"Snake, giant poisonous",0.25,Beast,,Medium,,N,N,50,0,0,1,0,0,0,0,0,0,0,0
-"Snake, poisonous",0.125,Beast,,Tiny,,N,N,25,0,0,0,0,0,0,0,0,0,0,0
-Specter,1,Undead,,Medium,CE,N,N,200,0,0,0,0,0,0,0,0,0,0,0
-"Specter, poltergeist",2,Undead,,Medium,CE,N,N,450,0,0,0,0,0,0,0,0,0,0,1
-"Sphinx, androsphinx",17,Monstrosity,,Large,LN,Y,Y,18000,0,0,0,0,0,0,0,0,0,0,0
-"Sphinx, gynosphinx",11,Monstrosity,,Large,LN,Y,Y,7200,0,0,1,0,0,0,0,0,1,0,0
-Spider,0,Beast,,Tiny,,N,N,10,0,0,0,0,0,0,0,0,0,0,0
-"Spider, giant",1,Beast,,Large,,N,N,1800,1,0,0,0,0,0,0,0,0,0,0
-"Spider, giant wolf",0.25,Beast,,Medium,,N,N,50,0,1,0,0,0,0,0,0,1,0,0
-"Spider, phase",3,Monstrosity,,Large,,N,N,700,0,0,0,0,0,0,0,0,0,0,0
-Sprite,0.25,Fey,,Tiny,NG,N,N,50,0,0,0,0,0,0,0,0,0,1,0
-Stirge,0.125,Beast,,Tiny,,N,N,25,0,0,0,0,0,0,0,0,0,0,1
-Succubus/incubus,4,Fiend,Shapechanger,Medium,NE,N,N,1100,0,0,0,0,0,0,0,0,0,0,1
-Swarm of bats,0.25,Beast,,Medium (Tiny),,N,N,50,0,0,0,0,0,0,0,0,0,0,0
-Swarm of insects,0.5,Beast,,Medium (Tiny),,N,N,100,0,0,0,0,0,0,0,1,1,0,0
-Swarm of poisonous snakes,2,Beast,,Medium (Tiny),,N,N,450,0,0,0,0,0,1,0,0,0,0,0
-Swarm of quippers,1,Beast,,Medium (Tiny),,N,N,200,0,0,0,0,0,0,0,0,0,0,0
-Swarm of rats,0.25,Beast,,Medium (Tiny),,N,N,50,0,1,0,0,0,0,0,0,0,0,0
-Swarm of ravens,0.25,Beast,,Medium (Tiny),,N,N,50,0,0,0,1,0,0,0,0,0,0,0
-Tarrasque,30,Monstrosity,,Gargantuan,,Y,N,155000,0,0,1,0,0,0,0,0,0,0,0
-Thri-kreen,1,Humanoid,Thri-kreen,Medium,CN,N,N,200,0,0,1,0,0,0,0,0,0,0,0
-Tiger,1,Beast,,Large,,N,N,200,0,0,0,0,0,0,0,0,1,0,0
-"Toad, giant",1,Beast,,Large,,N,N,200,0,0,0,0,0,0,0,0,0,0,1
-Treant,9,Plant,,Huge,CG,N,N,5000,0,0,0,0,0,0,0,0,0,0,1
-Troglodyte,0.25,Humanoid,Troglodyte,Medium,CE,N,N,50,0,0,0,0,0,0,0,0,0,0,0
-Troll,5,Giant,,Large,CE,N,N,1800,0,1,1,0,0,0,0,0,0,0,0
-Umber hulk,5,Monstrosity,,Large,CE,N,N,1800,0,0,0,0,0,0,1,0,0,0,0
-Unicorn,5,Celestial,,Large,LG,Y,Y,1800,0,0,0,0,0,0,0,0,0,0,1
-Vampire,13,Undead,Shapechanger,Medium,LE,Y,Y,10000,0,0,0,0,0,0,0,0,0,0,0
-Vampire spawn,5,Undead,,Medium,NE,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
-"Vampire, spellcaster",15,Undead,Shapechanger,Medium,LE,Y,Y,13000,0,0,1,0,0,0,0,0,0,0,0
-"Vampire, warrior",15,Undead,Shapechanger,Medium,LE,Y,Y,13000,0,1,0,0,0,0,0,0,0,0,0
-Vulture,0,Beast,,Medium,,N,N,10,0,0,0,1,1,0,0,0,0,1,0
-"Vulture, giant",1,Beast,,Large,NE,N,N,200,0,0,0,0,0,1,1,0,0,0,0
-"Wasp, giant",0.5,Beast,,Medium,,N,N,100,0,0,1,0,0,0,0,0,0,0,0
-Water weird,3,Elemental,,Large,N,N,N,700,0,0,0,0,0,0,0,0,0,0,0
-Weasel,0,Beast,,Tiny,,N,N,10,0,0,0,0,0,0,0,0,0,0,0
-"Weasel, giant",0.125,Beast,,Medium,,N,N,25,0,0,0,0,0,0,0,0,0,0,0
-Wight,3,Undead,,Medium,NE,N,N,700,0,0,1,0,0,0,0,0,0,0,0
-Will-o'-wisp,2,Undead,,Tiny,CE,N,N,450,1,0,0,0,0,0,0,0,0,0,0
-Winter wolf,3,Monstrosity,,Large,NE,N,N,700,0,0,0,0,0,0,0,0,0,0,0
-Wolf,0.25,Beast,,Medium,,N,N,50,0,0,0,0,0,0,0,1,0,0,0
-Worg,0.5,Monstrosity,,Large,NE,N,N,100,0,0,0,0,0,1,0,0,0,0,0
-Wraith,5,Undead,,Medium,NE,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
-Wyvern,6,Dragon,,Large,,N,N,2300,0,1,0,0,0,0,0,0,0,0,0
-Xorn,5,Elemental,,Medium,N,N,N,1800,0,0,0,1,0,0,0,0,0,0,0
-Yeti,3,Monstrosity,,Large,CE,N,N,700,0,1,1,0,0,0,0,0,0,0,0
-"Yeti, abominable",9,Monstrosity,,Huge,CE,N,N,5000,0,0,0,0,0,0,1,0,0,0,0
-"Yuan-ti, abomination",7,Monstrosity,Shapechanger,Large,NE,N,N,2900,0,0,0,0,0,0,0,0,0,0,1
-"Yuan-ti, malison",3,Monstrosity,Shapechanger,Medium,NE,N,N,700,0,0,0,0,0,0,0,0,0,0,0
-"Yuan-ti, pureblood",1,Monstrosity,Yuan-ti,Medium,NE,N,N,200,0,0,0,1,1,0,0,0,0,1,0
-"Yugoloth, arcanaloth",12,Fiend,Yugoloth,Medium,NE,N,N,8400,0,0,0,0,0,1,1,0,0,0,0
+"Shark, giant",5,Beast,,Huge,,N,N,1800,0,0,0,0,0,0,0,0,0,1,0
+"Slaad, red",5,Aberration,,Large,CN,N,N,1800,1,0,0,1,0,1,1,1,0,0,0
+Troll,5,Giant,,Large,CE,N,N,1800,0,0,0,0,0,0,0,0,1,0,0
+Umber hulk,5,Monstrosity,,Large,CE,N,N,1800,0,0,0,1,0,0,0,0,1,0,0
+Unicorn,5,Celestial,,Large,LG,Y,Y,1800,0,0,0,0,0,0,0,0,0,0,0
+Vampire spawn,5,Undead,,Medium,NE,N,N,1800,0,0,0,0,0,0,0,0,1,0,1
+Wraith,5,Undead,,Medium,NE,N,N,1800,0,0,0,0,0,0,0,0,1,0,0
+Xorn,5,Elemental,,Medium,N,N,N,1800,0,0,0,0,0,0,0,0,1,0,0
 "Yugoloth, mezzoloth",5,Fiend,Yugoloth,Medium,NE,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
-"Yugoloth, nycaloth",9,Fiend,Yugoloth,Large,NE,N,N,5000,0,0,0,0,0,0,0,0,0,0,1
+"Zombie, beholder",5,Undead,,Large,NE,N,N,1800,0,0,0,0,1,1,1,0,1,0,0
+Chimera,6,Monstrosity,,Large,CE,N,N,2300,0,1,1,0,1,1,1,0,1,0,0
+Cyclops,6,Giant,,Huge,CN,N,N,2300,0,0,0,0,0,0,0,0,1,0,0
+"Demon, chasme",6,Fiend,Demon,Large,CE,N,N,2300,0,0,0,0,0,0,0,0,0,0,0
+"Demon, vrock",6,Fiend,Demon,Large,CE,N,N,2300,0,0,1,0,0,0,0,0,0,0,0
+"Dragon, brass, young",6,Dragon,,Large,CG,N,N,2300,1,0,0,0,0,0,0,0,0,0,0
+"Dragon, white, young",6,Dragon,,Large,CE,N,N,2300,0,0,0,0,0,0,0,0,0,0,0
+Drider,6,Monstrosity,,Large,CE,N,N,2300,0,0,0,0,0,1,1,0,1,0,0
+Galeb duhr,6,Elemental,,Medium,N,N,N,2300,0,0,0,0,0,0,0,0,0,0,0
+"Gith, githzerai zerth",6,Humanoid,Gith,Medium,LN,N,N,2300,0,0,0,0,0,0,0,0,0,0,0
+"Hobgoblin, warlord",6,Humanoid,Goblinoid,Medium,LE,N,N,2300,0,0,0,0,0,0,0,0,0,0,0
+Invisible stalker,6,Elemental,,Medium,N,N,N,2300,0,0,0,0,0,0,0,0,0,0,1
+"Kuo-toa, archpriest",6,Humanoid,Kuo-toa,Medium,NE,N,N,2300,1,0,0,0,0,0,0,0,0,0,0
+Mammoth,6,Beast,,Huge,,N,N,2300,0,0,1,0,0,0,0,0,0,0,0
+Medusa,6,Monstrosity,,Medium,LE,N,N,2300,0,0,0,0,0,0,0,0,0,0,0
+NPC mage,6,Humanoid,any,Medium,any,N,N,2300,0,0,0,0,0,1,1,0,0,0,1
+Wyvern,6,Dragon,,Large,,N,N,2300,0,0,0,1,0,0,0,0,0,0,0
+"Ape, giant",7,Beast,,Huge,,N,N,2900,0,0,0,0,0,0,0,1,0,0,0
+"Dragon, black, young",7,Dragon,,Large,CE,N,N,2900,0,0,0,0,0,1,0,0,0,0,0
+"Dragon, copper, young",7,Dragon,,Large,CG,N,N,2900,0,0,0,0,0,0,0,0,0,0,0
+"Elf, drow, mage",7,Humanoid,Elf,Medium,NE,N,N,2900,0,0,0,0,0,1,1,0,1,0,0
+"Giant, stone",7,Giant,,Huge,N,N,N,2900,0,0,0,1,0,0,0,0,1,0,0
+"Grick, alpha",7,Monstrosity,,Large,N,N,N,2900,0,0,0,0,0,0,0,0,1,0,0
+Mind flayer,7,Aberration,,Medium,LE,N,N,2900,0,0,0,1,0,0,0,0,1,0,0
+Oni (ogre mage),7,Giant,,Large,LE,N,N,2900,0,0,0,0,0,0,0,0,0,0,1
+Shield guardian,7,Construct,,Large,,N,N,2900,0,0,0,0,0,0,0,0,0,0,1
+"Slaad, blue",7,Aberration,,Large,CN,N,N,2900,0,0,1,1,0,0,0,1,0,0,0
+"Yuan-ti, abomination",7,Monstrosity,Shapechanger,Large,NE,N,N,2900,0,0,0,0,0,0,0,0,0,0,0
+Cloaker,8,Aberration,,Large,CN,N,N,3900,0,0,0,0,0,0,0,0,1,0,0
+"Demon, hezrou",8,Fiend,Demon,Large,CE,N,N,3900,0,0,0,0,0,0,0,0,0,0,0
+"Devil, chain",8,Fiend,Devil,Medium,LE,N,N,3900,0,0,0,0,1,0,0,0,0,0,0
+"Dinosaur, tyrannosaurus rex",8,Beast,,Huge,,N,N,3900,0,1,0,0,0,0,0,0,0,0,0
+"Dragon, bronze, young",8,Dragon,,Large,LG,N,N,3900,0,0,0,1,0,0,0,0,0,0,0
+"Dragon, green, young",8,Dragon,,Large,LE,N,N,3900,0,0,0,0,0,0,0,0,0,0,0
+"Elf, drow, priestess of Lolth",8,Humanoid,Elf,Medium,NE,N,N,3900,0,0,0,0,0,0,0,0,0,0,0
+Fomorian,8,Giant,,Huge,CE,N,N,3900,1,0,0,0,0,0,1,0,1,0,0
+"Giant, frost",8,Giant,,Huge,NE,N,N,3900,0,0,0,0,0,0,0,0,0,0,0
+"Gith, githyanki knight",8,Humanoid,Gith,Medium,LE,N,N,3900,0,0,0,0,0,0,0,1,0,0,0
+Hydra,8,Monstrosity,,Huge,,N,N,3900,0,0,0,0,0,0,0,0,0,0,0
+"Mind flayer, arcanist",8,Aberration,,Medium,LE,N,N,3900,0,0,0,0,0,0,0,0,1,0,0
+"Naga, spirit",8,Monstrosity,,Large,CE,N,N,3900,0,0,0,0,0,0,0,0,1,0,0
+NPC assassin,8,Humanoid,any,Medium,non-G,N,N,3900,0,0,0,0,0,0,0,0,0,0,1
+"Slaad, green",8,Aberration,,Large,CN,N,N,3900,0,0,0,0,0,0,0,0,0,0,0
+"Demon, glabrezu",9,Fiend,Demon,Large,CE,N,N,5000,0,0,0,0,0,0,0,0,0,0,0
+"Devil, bone",9,Fiend,Devil,Large,LE,N,N,5000,0,1,1,0,0,0,0,0,0,0,0
+"Dragon, blue, young",9,Dragon,,Large,LE,N,N,5000,0,0,0,0,0,0,1,0,0,0,0
+"Dragon, silver, young",9,Dragon,,Large,LG,N,N,5000,0,0,0,0,0,0,1,0,0,0,1
+"Giant, cloud",9,Giant,,Huge,NG (50%) NE(50%),N,N,5000,0,0,0,0,0,0,1,0,0,0,0
+"Giant, fire",9,Giant,,Huge,LE,N,N,5000,0,0,0,0,0,0,0,0,1,0,0
+"Golem, clay",9,Construct,,Large,,N,N,5000,0,0,0,0,0,0,0,0,0,0,0
+"Slaad, gray",9,Aberration,,Medium,CN,N,N,5000,0,0,0,1,0,0,0,0,0,0,1
+Treant,9,Plant,,Huge,CG,N,N,5000,1,0,0,0,0,0,0,0,0,0,0
+"Yeti, abominable",9,Monstrosity,,Huge,CE,N,N,5000,0,0,0,0,0,0,0,0,0,0,0
+"Yugoloth, nycaloth",9,Fiend,Yugoloth,Large,NE,N,N,5000,0,0,0,0,0,0,0,0,0,0,0
+Aboleth,10,Aberration,,Large,LE,Y,Y,5900,0,0,0,0,0,0,0,0,1,0,0
+"Angel, deva",10,Celestial,,Medium,LG,N,N,5900,0,0,0,0,0,0,0,0,0,0,0
+"Demon, yochlol",10,Fiend,Shapechanger,Medium,CE,N,N,5900,0,0,0,1,1,0,0,0,0,0,0
+"Dragon, gold, young",10,Dragon,,Large,LG,N,N,5900,0,0,0,0,0,1,1,0,0,0,0
+"Dragon, red, young",10,Dragon,,Large,CE,N,N,5900,0,0,0,0,0,0,0,0,0,0,0
+"Golem, stone",10,Construct,,Large,,N,N,5900,0,0,1,1,0,0,0,0,0,0,0
+"Naga, guardian",10,Monstrosity,,Large,LG,N,N,5900,0,0,0,0,0,0,0,0,0,0,0
+"Slaad, death",10,Aberration,Shapechanger,Medium,CE,N,N,5900,0,0,0,0,0,0,0,0,0,0,0
+Behir,11,Monstrosity,,Huge,NE,N,N,7200,0,0,0,0,0,0,0,0,1,0,0
+"Devil, horned",11,Fiend,Devil,Large,LE,N,N,7200,0,0,0,0,0,0,0,0,0,0,0
+"Genie, dao",11,Elemental,,Large,NE,N,N,7200,0,1,0,0,0,0,0,0,1,0,0
+"Genie, djinni",11,Elemental,,Large,CG,N,N,7200,0,0,1,0,0,0,0,0,0,0,0
+"Genie, efreeti",11,Elemental,,Large,LE,N,N,7200,0,1,0,0,0,0,0,0,0,0,0
+"Genie, marid",11,Elemental,,Large,CN,N,N,7200,1,0,0,0,0,0,0,0,0,1,0
+Remorhaz,11,Monstrosity,,Huge,,N,N,7200,1,1,1,0,0,1,1,0,0,0,0
+Roc,11,Monstrosity,,Gargantuan,,N,N,7200,0,0,1,0,0,0,0,0,0,0,0
+"Sphinx, gynosphinx",11,Monstrosity,,Large,LN,Y,Y,7200,0,0,0,0,0,0,0,0,0,0,0
+"Devil, erinyes",12,Fiend,Devil,Medium,LE,N,N,8400,0,0,0,0,0,0,0,0,0,0,0
+NPC archmage,12,Humanoid,any,Medium,any,N,N,8400,0,0,0,0,0,0,0,0,0,0,1
+"Yugoloth, arcanaloth",12,Fiend,Yugoloth,Medium,NE,N,N,8400,0,0,0,0,0,0,0,0,0,0,0
+Beholder,13,Aberration,,Large,LE,Y,Y,10000,0,0,1,0,0,0,0,0,1,0,0
+"Demon, nalfeshnee",13,Fiend,Demon,Large,CE,N,N,10000,0,0,0,0,0,0,0,0,0,0,0
+"Dragon, brass, adult",13,Dragon,,Huge,CG,Y,Y,10000,1,0,0,0,0,0,0,0,0,0,0
+"Dragon, shadow, red, young",13,Dragon,,Large,,N,N,10000,0,1,0,0,0,0,0,0,1,0,0
+"Dragon, white, adult",13,Dragon,,Huge,CE,Y,Y,10000,0,0,0,0,0,0,0,0,0,0,0
+"Giant, storm",13,Giant,,Huge,CG,N,N,10000,0,0,0,0,0,0,0,0,0,1,0
+Rakshasa,13,Fiend,,Medium,LE,N,N,10000,0,0,0,0,0,0,0,0,0,0,1
+Vampire,13,Undead,Shapechanger,Medium,LE,Y,Y,10000,0,0,0,0,0,0,0,0,0,0,1
 "Yugoloth, ultraloth",13,Fiend,Yugoloth,Medium,NE,N,N,10000,0,0,0,0,0,0,0,0,0,0,0
-Zombie,0.25,Undead,,Medium,NE,N,N,50,0,0,0,0,0,0,0,0,0,0,0
-"Zombie, beholder",5,Undead,,Large,NE,N,N,1800,0,0,0,0,0,0,0,0,0,0,0
-"Zombie, ogre",2,Undead,,Large,NE,N,N,450,0,0,0,0,0,0,0,0,1,0,0
+"Beholder, death tyrant",14,Undead,,Large,LE,Y,Y,11500,0,0,0,0,0,0,0,1,1,0,0
+"Devil, ice",14,Fiend,Devil,Large,LE,N,N,11500,0,0,0,0,0,1,0,0,0,0,0
+"Dragon, black, adult",14,Dragon,,Huge,CE,Y,Y,11500,0,0,0,0,0,0,0,0,0,0,0
+"Dragon, copper, adult",14,Dragon,,Huge,CG,Y,Y,11500,0,1,0,0,0,0,0,0,0,0,0
+"Dragon, bronze, adult",15,Dragon,,Huge,LG,Y,Y,13000,0,0,0,1,0,0,0,0,0,0,0
+"Dragon, green, adult",15,Dragon,,Huge,LE,Y,Y,13000,0,0,1,0,0,0,0,0,0,0,0
+Mummy lord,15,Undead,,Medium,LE,Y,Y,13000,0,0,1,0,0,0,0,0,0,0,0
+Purple worm,15,Monstrosity,,Gargantuan,,N,N,13000,0,0,0,0,0,0,0,0,1,0,0
+"Vampire, spellcaster",15,Undead,Shapechanger,Medium,LE,Y,Y,13000,0,0,0,0,0,0,0,0,0,0,1
+"Vampire, warrior",15,Undead,Shapechanger,Medium,LE,Y,Y,13000,0,0,0,0,0,0,0,0,0,0,1
+"Angel, planetar",16,Celestial,,Large,LG,N,N,15000,0,0,0,0,0,0,0,0,0,0,0
+"Demon, marilith",16,Fiend,Demon,Large,CE,N,N,15000,0,1,1,0,0,0,0,0,0,0,0
+"Dragon, blue, adult",16,Dragon,,Huge,LE,Y,Y,15000,0,0,0,0,0,0,1,0,0,0,0
+"Dragon, silver, adult",16,Dragon,,Huge,LG,Y,Y,15000,0,0,0,0,0,0,0,0,0,0,1
+"Golem, iron",16,Construct,,Large,,N,N,15000,0,0,0,0,0,0,0,0,0,0,0
+Death Knight,17,Undead,,Medium,CE,N,N,18000,0,0,0,0,0,0,0,0,0,0,0
+"Demon, goristro",17,Fiend,Demon,Huge,CE,N,N,18000,0,0,1,0,0,0,0,0,0,0,0
+"Dracolich, blue, adult",17,Undead,,Huge,LE,Y,Y,18000,0,1,0,0,0,0,0,0,0,0,0
+Dragon turtle,17,Dragon,,Gargantuan,N,N,N,18000,0,0,0,1,1,0,0,0,0,1,0
+"Dragon, gold, adult",17,Dragon,,Huge,LG,Y,Y,18000,0,0,0,0,0,1,1,0,0,0,0
+"Dragon, red, adult",17,Dragon,,Huge,CE,Y,Y,18000,0,0,1,0,0,0,0,0,0,0,0
+"Sphinx, androsphinx",17,Monstrosity,,Large,LN,Y,Y,18000,0,0,0,0,0,0,0,0,0,0,0
+Demilich,18,Undead,,Tiny,NE,Y,Y,20000,0,0,0,0,0,0,0,0,0,0,0
+"Demon, balor",19,Fiend,Demon,Huge,CE,N,N,22000,0,0,0,0,0,0,0,0,0,0,0
+"Devil, pit fiend",20,Fiend,Devil,Large,LE,N,N,25000,0,0,1,0,0,0,0,0,0,0,0
+"Dragon, brass, ancient",20,Dragon,,Gargantuan,CG,Y,Y,24500,1,0,0,0,0,0,0,0,0,0,0
+"Dragon, white, ancient",20,Dragon,,Gargantuan,CE,Y,Y,24500,0,0,0,0,0,0,0,0,0,0,0
+"Angel, solar",21,Celestial,,Large,LG,Y,N,33000,0,0,0,0,0,0,0,1,0,0,0
+"Dragon, black, ancient",21,Dragon,,Gargantuan,CE,Y,Y,27500,0,0,0,0,0,1,0,0,0,0,0
+"Dragon, copper, ancient",21,Dragon,,Gargantuan,CG,Y,Y,27500,0,0,0,0,0,0,0,0,0,0,0
+Lich,21,Undead,,Medium,E (any),Y,Y,33000,0,1,0,0,0,0,0,0,0,0,0
+"Dragon, bronze, ancient",22,Dragon,,Gargantuan,LG,Y,Y,30000,0,0,0,1,0,0,0,0,0,0,0
+"Dragon, green, ancient",22,Dragon,,Gargantuan,LE,Y,Y,30000,0,1,1,0,0,0,0,0,0,0,0
+"Dragon, blue, ancient",23,Dragon,,Gargantuan,LE,Y,Y,32500,0,0,0,0,0,0,1,0,0,0,0
+"Dragon, silver, ancient",23,Dragon,,Gargantuan,LG,Y,Y,32500,0,0,0,0,0,0,0,0,0,0,1
+Empyrean,23,Celestial,Titan,Huge,CG (75%) NE (25%),Y,N,32500,0,0,0,0,0,0,0,0,0,0,0
+Kraken,23,Monstrosity,Titan,Gargantuan,CE,Y,Y,50000,0,0,0,1,1,0,0,0,0,1,0
+"Dragon, gold, ancient",24,Dragon,,Gargantuan,LG,Y,Y,36500,0,0,0,0,0,1,1,0,0,0,0
+"Dragon, red, ancient",24,Dragon,,Gargantuan,CE,Y,Y,36500,0,0,0,0,0,0,0,0,0,0,0
+Tarrasque,30,Monstrosity,,Gargantuan,,Y,N,155000,0,0,0,0,0,0,0,0,0,0,1
+Dracolich (template),,Undead,Dragon,,,Y,Y,,0,0,0,0,0,0,0,0,0,0,0
+"Dragon, shadow (template)",,Dragon,,,,Y,Y,,0,0,0,0,0,0,0,0,0,0,0
+Half-dragon (template),,Dragon,,,,Y,Y,,0,0,0,0,0,0,0,0,0,0,0
+"Myconid, spore servant (template)",,Plant,,,,N,N,,0,0,0,0,0,0,0,0,1,0,0
